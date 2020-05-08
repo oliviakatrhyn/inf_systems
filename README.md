@@ -1,9 +1,2 @@
-# inf_systems
+# Information Systems Assignment 
 
-# assumptions
-
-# empathy map 1 
-
-# empathy map 2 
-
-# POV statement 
