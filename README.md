@@ -9,7 +9,13 @@ The report is divided into sections to clearly identify the tasks completed in t
 
 ## Section 1 
 
+### heading 1 
+### heading 2 
+
 ## Section 2 
+
+### heading 3 
+### heading 4
 
 ## Section 3 
 
