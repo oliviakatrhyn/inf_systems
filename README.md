@@ -5,7 +5,7 @@
 *Add to last 
 
 ## Objectives of the Project 
-The objectives of this project is to improve the processes that are currently implemented at the majore travel company;s Call Management Centre (CMC). The information gathered through reading the document specification of the travel company  has highlighted the changes that our customers would like to see integrated into the new Information System (IS). It is understood that the creent model is outdated and needs to be more streamlined in order to achieve maximum efficiecny and effectivness. 
+The objectives of this project is to improve the processes that are currently implemented at the majore travel company's Call Management Centre (CMC). The information gathered through reading the document specification of the travel company  has highlighted the changes that our customers would like to see integrated into the new Information System (IS). It is understood that the current model is outdated and needs to be more streamlined in order to achieve maximum efficiecny and effectivness. 
 
 ## Stakeholders
 
