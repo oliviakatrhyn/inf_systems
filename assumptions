@@ -1,1 +1,4 @@
 Assumptions 
+
+- Customer can't create their own profile using the profiler tool. The relationship manager must create a customer profile using the profiler tool. 
+- Relationship managers can edit their profile
