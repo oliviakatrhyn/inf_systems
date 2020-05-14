@@ -2,3 +2,7 @@ Assumptions
 
 - Customer can't create their own profile using the profiler tool. The relationship manager must create a customer profile using the profiler tool. 
 - Relationship managers can edit their profile
+- customers can make payments over the phone
+- relationship managers can purchase payments on the phone 
+- relationship managers can make a purchase on behalf of the customer 
+- achieiving a sale involves a purchase by the customer 
