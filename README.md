@@ -6,18 +6,7 @@
 ## Objectives 
 ## Stakeholders
 
-
 ## Design thinking approach 
-
-### Empathy Phase 
-
-*include reflection on our deisgn thinking approach and brainstormed ideas 
-- include empathy map - brainstormed 
-
-### Define phase 
-*turning our POV statments into How might we statments 
-
-### Assumptions 
 
 ## Prototyping and models - Workproducts, models and descriptions
 *short description of whats featured here 
