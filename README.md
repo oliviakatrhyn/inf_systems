@@ -1,22 +1,32 @@
 # Information Systems Development Project 
 
-## Executive summary
+## Executive Summary 
 
-*Input summary of the report here*
+## Problem Definition
+## Objectives 
+## Stakeholders
 
-The report is divided into sections to clearly identify the tasks completed in the project. Section 1 outlines the objectives of the project and defines the problem statement, and identifies the stakeholders. This also includes a reflection of the brainstorming process and development of the empathy map. Section 2 includes a description of the teams approach from a deisgn thinking perspective, as well as the use of agile methodology, namely, SCRUM, which was integrated in the development process of the project. Also included is any assumtpions made in the systems analysis. Section 3 includes all the work products and models, namely, the use case diagrams, activity diagram, class diagram and collaborative diagram. Finally, section 4 explains the potential advantages of developing the new information system and the any possible adverse impacts on the travel company if the system fails. 
 
+## Design thinking approach 
 
-## Section 1 
+### Empathy Phase 
 
-### heading 1 
-### heading 2 
+*include reflection on our deisgn thinking approach and brainstormed ideas 
+- include empathy map - brainstormed 
 
-## Section 2 
+### Define phase 
+*turning our POV statments into How might we statments 
 
-### heading 3 
-### heading 4
+### Assumptions 
 
-## Section 3 
+## Prototyping and models - Workproducts, models and descriptions
+*short description of whats featured here 
+### Use case Diagrams
+### Activity Diagrams
+### Class Diagrams
+### Collaborative Diagrams
 
-## Section 4
+## Competitive advantages and possible effects if the project fails 
+
+*E.g. Potential benefits to the call center (in terms of reducing cost and being able to carry out more effective calls). (Around 500 words)
+
