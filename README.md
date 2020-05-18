@@ -11,8 +11,10 @@ The objectives of this project is to improve the processes that are currently im
 ## Design thinking approach 
 
 ## Problem definition 
-- empathy map 
-- pov
+
+### Empathy Map 
+
+### Point of View Statements
 
 ## Stakeholders
 
