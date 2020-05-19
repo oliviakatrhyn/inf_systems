@@ -12,6 +12,10 @@ The objectives of this project is to improve the processes that are currently im
 
 ### Problem definition 
 
+Currently, Relationship managers communicate with customers through the in-house call management centre. The current operating system inefficiently directs inbound and outbound customers to relationship managers, resulting in lost customers, due to long waiting periods and ill informed services, which further leads to loss of sales and loss of repeat customers  
+
+To reduce these inefficiencies, the information system should integrate improved call routing and dynamic flow control to better suit relationship managers to their customers and reduce the waiting period of potential buyers. 
+
 ### Empathy Maps 
 
 ![Photo1 CMC](EmpathyMap_CallManagementCenter.png)
