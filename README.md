@@ -24,6 +24,18 @@ The objectives of this project is to improve the processes that are currently im
 
 ### Point of View Statements
 
+| POV Statement Number | Description |
+| --- | --- |
+| Point of 
+View Statment 1 | An inbound customers needs to be able to hang up when call holds up become too long because customers will not have the opportunity to wait extended period of time
+A customer should be coordinated with the best possible RM because this will greatly improve the likelihood of sales and customers will be provided with better suited products |
+| Point of
+View Statement 2| A relationship manager needs a way to make outbound calls and receive inbound calls, whilst also delivering efficient and well-informed conversations about potential holiday packages. They need to be able to provide genuine conversation about holiday packages that might interest the caller to efficiently and effectively achieve a sale. |
+| Point of 
+View Statement 3 | A customer who is interested in holiday package needs a way to communicate efficiently with a well-informed relationship manager on the holiday package that interest them the most because this will help in their decision to purchase a package.|
+|Point of 
+View Statement 4 | Company should divide the customer into 2 types which are new customer and old customer. And then the customer that have used the service before should be matched with the RM that served them before so it will have the good results and there will have a good feedback from the customer. |
+
 ## Stakeholders
 
 - reflect on empathy maps 
