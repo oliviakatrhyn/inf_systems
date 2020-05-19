@@ -10,11 +10,19 @@ The objectives of this project is to improve the processes that are currently im
 
 ## Design thinking approach 
 
-## Problem definition 
+### Problem definition 
 
-### Empathy Map 
+### Empathy Maps 
 
-## User Stories 
+![Photo1 CMC](EmpathyMap_CallManagementCenter.png)
+
+![Photo2 RM](EmpathyMap_RelationshipManager.png)
+
+![Photo3 Outbound](EmpathyMap_OutgoingCustomers.png)
+
+![Photo4 Inbound](EmpathyMap_IncomingCustomers.png)
+
+### User Stories 
 
 
 | User Story Number  | User Story Description | Priority (High, Medium, Low) |
@@ -32,16 +40,17 @@ The objectives of this project is to improve the processes that are currently im
 | POV Statement 4| A customer who is interested in holiday package needs a way to communicate efficiently with a well-informed relationship manager on the holiday package that interest them the most because this will help in their decision to purchase a package.|
 |POV Statement 5| Company should divide the customer into 2 types which are new customer and old customer. And then the customer that have used the service before should be matched with the RM that served them before so it will have the good results and there will have a good feedback from the customer. |
 
-## Stakeholders
+### Stakeholders
 
 - reflect on empathy maps 
 - assumptions, what we were certain about, what we were not certain about 
 - reflective task 
 
-## ideation 
+### Ideation 
 - reflective 
 - how might we questions - table 
 - turn into backlog 
+
 ## Prototyping and models - Workproducts, models and descriptions
 *short description of whats featured here 
 ### Use case Diagrams
