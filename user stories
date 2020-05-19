@@ -1,11 +1,27 @@
-relationship manager 
+Relationship manager 
 
-inbound customer 
+- As a relationship manager, i want to be able to input customers payment details on there behalf, so that i can make a payment for a holiday package
+- As a relationship manager, i want to be able to create, edit and delete my profile, so that i can keep customers updated on my skill, experiences and knowledge. 
+- As a relationship manager, i want to retrieve customers details, so that i can make calls to outbound customers
+- As a relationship manager, i want to view customers details and potential holiday packages, so that i can delivered a more specific and tailored service 
+- As a relationship manager, i want to view a target list with all potential callers, so that i make calls with potential customers 
+- As a relationship manager, i want to servce customers with the highest scores, so that i can achieve a sale efficiently 
 
-outbound customer
+Inbound customer 
+- As an inbound customer, i want to be directed to a relationship manager who is familliar with a particular holiday package, so that i can revieve reliable information about the place
+- As an inbound customer, i want to view different holiday packages, so that i can develop more information about each place 
+- As an inbound customer, i want to call a relationship manager, so that i can gather information about holiday packages 
+- As a an inbound customer, i want to view the purchases made through the travel company, so i can review the holiday packages
+- As an inbound customer, i want to view experiences and skills of relationship managers, so that i can develop more information of the places  and of the relationsip manager 
 
-travel company/ Call management center 
+Outbound customer
+- As a an outbound customer, i want to be able to ..
 
+Travel company/ Call management center 
+- As the Call Management Centre, i want to direct customers to an Interactive Voice Response when no relationship manager is available, so that we can gather feedback and information from the customer 
+- As the Call Management Centre, i want customers to be matched with suitable relationship managers, so that we can effectively and efficiently acheieve sales. 
+- As the Call Management Centre, i want to improve call flow rate, so that we can make more sales
+- As the Call Management Centre, i want to be able to create, view and delete customer and relationship manager profiles, so that i keep information about end users updated 
 
 
 
