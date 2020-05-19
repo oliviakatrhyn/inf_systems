@@ -1,4 +1,8 @@
 Relationship manager 
+- As a relationship manager, i want my special discounts rates to be displayed to me so that i can offer my clients competitive rates
+- As a relationship manager, i want to choose from a range of potential vacations that suit the customer's preferences so that the customer can have the good time
+- As a relationship manager, i want to know customer's details so that i can serve them with the best
+- As a relationship manager, i want the up-to-date information displayed so that my clients can receive accurate information
 
 - As a relationship manager, i want to be able to input customers payment details on there behalf, so that i can make a payment for a holiday package
 - As a relationship manager, i want to be able to create, edit and delete my profile, so that i can keep customers updated on my skill, experiences and knowledge. 
@@ -8,6 +12,11 @@ Relationship manager
 - As a relationship manager, i want to servce customers with the highest scores, so that i can achieve a sale efficiently 
 
 Inbound customer 
+- As an inbound customer, i want to be recognized by my number so that i can pay my travel with the payment method recorded in my user profile
+- As an inbound customer, i want to view the travel packages in order of lowest to highest fares, so that i can choose the holiday packages efficiently.
+- As an inbound customer, i want to connect to the RMS that serve me before so that i can work with them easily
+- As an inbound customer, i want to
+
 - As an inbound customer, i want to be directed to a relationship manager who is familliar with a particular holiday package, so that i can revieve reliable information about the place
 - As an inbound customer, i want to view different holiday packages, so that i can develop more information about each place 
 - As an inbound customer, i want to call a relationship manager, so that i can gather information about holiday packages 
