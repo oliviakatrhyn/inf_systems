@@ -17,7 +17,7 @@ The objectives of this project is to improve the processes that are currently im
 ## User Stories 
 
 
-| User Story Number  | User Story Description |
+| User Story Number  | User Story Description | Priority (High, Medium, Low) |
 | ------------- | ------------- |
 | User Story #1 | As a relationship manager, I want to be able to have access to a target list, so that I can provide an improved service to end customers   |
 | User Story #2 | As a customer i want to be able create a profile so that i can be matched faster with a relaitonship manager  | 
