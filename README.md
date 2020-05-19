@@ -43,13 +43,50 @@ The objectives of this project is to improve the processes that are currently im
 ### Stakeholders
 
 - reflect on empathy maps 
-- assumptions, what we were certain about, what we were not certain about 
 - reflective task 
 
+*Assumptions 
+
+These assumptions are based on reading the project outline. This is what we assume about the information the system, however, these are subject to change and/or expected to be resolved later in the project 
+
+- The relationship manager can create a customer profile using the profiler tool. 
+- if consumers want to edit there profile they can do so online 
+- Relationship managers can edit their profile
+- relationship managers can make a purchase on behalf of the customer 
+- achieiving a sale involves a purchase by the customer
+- new customers will be automatically be allocated low priority 
+
+
 ### Ideation 
-- reflective 
-- how might we questions - table 
-- turn into backlog 
+*reflection add
+
+How Might We Questions
+
+- How might we can reduce the time that the customer do need to hang up
+- How might we improve the relationship between staffs and customers
+- How might we improve the quality in the conversation betweem customers and RMs
+- How might we know which products that customers want to know about
+
+- How might we enable the relationship manager to make outbound calls 
+- How might we enable the relationship manager to receive inbound calls 
+- How might we enable the relationship manager to make and receive well informed conversations with potential buyers 
+- In what ways can we increase the amount of calls completed by the relationship manager 
+- how might we decrease the waiting period between each inbound customer 
+- how might we speed up the time the relationship manager spends with its clients 
+- how might we assist the relationship manager in developing genuine relationships between customers and business
+
+- in what ways might we reduce the waiting time for customers 
+- how might we assist the customer in communicating their interests 
+- how might we provide a suitable relationship manager to customers
+- how might we increase the time taken to make a purchase with a customer 
+
+- How might we can know which customers that used the service before
+- How might we can improve the staff skill so they can serve the new customer with the best they can
+- How might we match the RM with the buyer that they have talked before
+- How might we receive the feedback from the customer that can improve the company quality
+
+
+*turn into backlog 
 
 ## Prototyping and models - Workproducts, models and descriptions
 *short description of whats featured here 
