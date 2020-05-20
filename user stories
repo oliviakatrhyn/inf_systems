@@ -14,8 +14,8 @@ Relationship manager
 Inbound customer 
 - As an inbound customer, i want to be recognized by my number so that i can pay my travel with the payment method recorded in my user profile
 - As an inbound customer, i want to view the travel packages in order of lowest to highest fares, so that i can choose the holiday packages efficiently.
-- As an inbound customer, i want to connect to the RMS that serve me before so that i can work with them easily
-- As an inbound customer, i want to
+- As an inbound customer, i want to connect to the RMs that serve me before so that i can work with them easily
+- As an inbound customer, i want to save my favourite domestic destination so that i can choose it whenever i want
 
 - As an inbound customer, i want to be directed to a relationship manager who is familliar with a particular holiday package, so that i can revieve reliable information about the place
 - As an inbound customer, i want to view different holiday packages, so that i can develop more information about each place 
@@ -24,9 +24,17 @@ Inbound customer
 - As an inbound customer, i want to view experiences and skills of relationship managers, so that i can develop more information of the places  and of the relationsip manager 
 
 Outbound customer
+- As an outbound customer, i want to connect to the staffs that know my language so that they can understand me efficiently
+- As an outbound customer, i want to see the feedback about the company before i made the purchase so that i can believe that i will not be scammed
+- As an outbound customer, i want to have the conversation with the staff without interrupted about connection so that i can communicate with them easily
+
 - As a an outbound customer, i want to be able to ..
 
 Travel company/ Call management center 
+- As Travel company, i want to know the visa restrictions for the customer so that customer can enjoy the time they go on holiday
+- As Travel company, i want to know the vaccinations required to visit the chosen destination so that vaccinations can be arranged for every customer in plenty of time
+- As Travel company, i want to know the customer's feedbacks so that we can improve the cons of the company
+- As Travel company, i want to improve the connection between the company and outbound customer so that we can have more international customer and make the company reach out to the world
 - As the Call Management Centre, i want to direct customers to an Interactive Voice Response when no relationship manager is available, so that we can gather feedback and information from the customer 
 - As the Call Management Centre, i want customers to be matched with suitable relationship managers, so that we can effectively and efficiently acheieve sales. 
 - As the Call Management Centre, i want to improve call flow rate, so that we can make more sales
