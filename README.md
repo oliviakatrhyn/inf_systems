@@ -23,19 +23,19 @@ Our key stakeholders for this new operating system include:
 ### Empathy Maps 
 
 <p align="center">
-  <img width="750" height="500" img src="EmpathyMap_CallManagementCenter.png">
+  <img width="900" height="600" img src="EmpathyMap_CallManagementCenter.png">
 </p>
 
 <p align="center">
-  <img width="750" height="500" img src="EmpathyMap_RelationshipManager.png">
+  <img width="900" height="600" img src="EmpathyMap_RelationshipManager.png">
 </p>
 
 <p align="center">
-  <img width="750" height="500" img src="EmpathyMap_OutgoingCustomers.png">
+  <img width="900" height="600" img src="EmpathyMap_OutgoingCustomers.png">
 </p>
 
 <p align="center">
-  <img width="750" height="500" img src="EmpathyMap_IncomingCustomers.png">
+  <img width="900" height="600" img src="EmpathyMap_IncomingCustomers.png">
 </p>
 
 ### Point of View Statements
