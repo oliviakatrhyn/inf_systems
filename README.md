@@ -42,8 +42,7 @@ Our key stakeholders for this new operating system include:
 
 | POV Statement Number | Description |
 | --- | --- |
-| POV Statement
-1 | An inbound customers needs to be able to hang up when call holds up become too long because customers will not have the opportunity to wait extended period of time
+| POV Statement 1 | An inbound customers needs to be able to hang up when call holds up become too long because customers will not have the opportunity to wait extended period of time
 | POV Statement 2 | A customer should be coordinated with the best possible RM because this will greatly improve the likelihood of sales and customers will be provided with better suited products |
 | POV Statement 3| A relationship manager needs a way to make outbound calls and receive inbound calls, whilst also delivering efficient and well-informed conversations about potential holiday packages. They need to be able to provide genuine conversation about holiday packages that might interest the caller to efficiently and effectively achieve a sale. |
 | POV Statement 4| A customer who is interested in holiday package needs a way to communicate efficiently with a well-informed relationship manager on the holiday package that interest them the most because this will help in their decision to purchase a package.|
