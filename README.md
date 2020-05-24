@@ -35,7 +35,7 @@ Our key stakeholders for this new operating system include:
 </p>
 
 <p align="center">
-  <img width="750" height="500" img src="EmpathyMap_IncomingCustomers.pn">
+  <img width="750" height="500" img src="EmpathyMap_IncomingCustomers.png">
 </p>
 
 ### Point of View Statements
