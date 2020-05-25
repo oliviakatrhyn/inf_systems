@@ -91,6 +91,8 @@ Currently, our assumptions are based on our initial readings of the project outl
 - relationship managers can make a purchase on behalf of the customer 
 - achieiving a sale involves a purchase by the customer
 - new customers will be automatically be allocated low priority 
+- have enough human resources to complete the work during that period
+- do not have any dificulties during the working process
 
 ### Ideation 
 *reflection add
