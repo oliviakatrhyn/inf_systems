@@ -131,3 +131,6 @@ Currently, our assumptions are based on our initial readings of the project outl
 
 *E.g. Potential benefits to the call center (in terms of reducing cost and being able to carry out more effective calls). (Around 500 words)
 
+By developing a new information system, the following competitive advantages can be achieved: Save time because the system will automatically dial for RMs according to the customer target list created by the system. In particular, it will reach potential customers in-depth, meet the needs of customers, and bring greater revenue.
+If the system fails, the business will have to spend a lot of money and time to invest in this project. Moreover, the way of operation is not improved can lead to a reduction in the number of potential customers, thereby reducing the company's revenue and profit.
+
