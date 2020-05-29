@@ -101,30 +101,23 @@ Currently, our assumptions are based on our initial readings of the project outl
 
 | User Story Number  | User Story Description | Priority (High, Medium, Low) |
 | ------------- | ------------- | ---------- |
-| US #1 | As a relationship manager, I want to be able to have access to a target list, so that I can provide an improved service to end customers   | Low  |
-| US #2 | As a relationship manager, i want my special discounts rates to be displayed to me so that i can offer my clients competitive rates  | Low | 
-| US #1 | As a relationship manager, i want to choose from a range of potential vacations that suit the customer's preferences so that the customer can have the good time | Medium |
-| US #1 | As a relationship manager, i want to know customer's details so that i can serve them with the best | High | 
-|US #1 | As a relationship manager, i want the up-to-date information displayed so that my clients can receive accurate information | High | 
-| US #1 | As a relationship manager, i want to be able to input customers payment details on there behalf, so that i can make a payment for a holiday package | High | 
-| US #1 | As a relationship manager, i want to be able to create, edit and delete my profile, so that i can keep customers updated on my skill, experiences and knowledge.  | High | 
-| US #1 | As a relationship manager, i want to retrieve the target list, so that i can make calls to outbound customers | High | 
-|US #1 | As a relationship manager, i want to view customers details and potential holiday packages, so that i can deliver a more specific and tailored service  | High | 
-| US #1 | As a relationship manager, i want to servce customers with the highest scores, so that i can achieve a sale efficiently  | High | 
-| US #1 | As an inbound customer, i want to be recognized by my number so that i can pay my travel with the payment method recorded in my user profile | Medium | 
-| US #1 | As an inbound customer, i want to view the travel packages in order of lowest to highest fares, so that i can choose the holiday packages efficiently.| Low | 
-| US #1 | As an inbound customer, i want to connect to the RMs that serve me before so that i can work with them easily | Medium | 
-| US #1 | As an inbound customer, i want to save my favourite domestic destination so that i can choose it whenever i want | Low | 
-|US #1 | As an inbound customer, i want to be directed to a relationship manager who is familliar with a particular holiday package, so that i can obtain reliable information about the place | Medium | 
-| US #1 | As an inbound customer, i want to view different holiday packages, so that i can develop more information about each place  |Low | 
-| US #1| As a an inbound customer, i want to view the purchases made through the travel company, so i can review the holiday packages  | Medium |
-| US #1 | As an outbound customer, i want to see the feedback about the company before i made the purchase so that i can believe that i will not be scammed  | Medium |
-| US #1 | As an outbound customer, i want to have the conversation with the staff without interrupted about connection so that i can communicate with them easily  | Medium |
-| US #1 | As Travel company, i want to know the vaccinations required to visit the chosen destination so that vaccinations can be arranged for every customer in plenty of time  | High |
-| US #1 | As Travel company, i want to know the customer's feedbacks so that we can improve the negative aspects of the company | Medium |
-| US #1 | As the Call Management Centre, i want to direct customers to an Interactive Voice Response when no relationship manager is available, so that we can gather feedback and information from the customer  | High |
-| US #1| As the Call Management Centre, i want to be able to create, view and delete customer and relationship manager profiles, so that i keep information about end users updated | High |
-| US #1| As the Call Management Centre, i want to match customers with suitable relationship managers, so that they recieve an informative and reliable service | Medium |
+| US #1 | As a relationship manager, i want my special discounts rates to be displayed to me so that i can offer my clients competitive rates  | Low | 
+| US #2 | As a relationship manager, i want to record any sales made, so that i can improve my skill score | High | 
+| US #3 | As a relationship manager, i want to be able to input customers payment details on there behalf, so that i can make a payment for a holiday package | High | 
+| US #4 | As a relationship manager, i want to be able to create, edit and delete my profile, so that i can keep customers updated on my skill, experiences and knowledge.  | High | 
+| US #5 | As a relationship manager, i want to retrieve the target list, so that i can make calls to outbound customers | High | 
+| US #6 | As a relationship manager, i want to view customers details and potential holiday packages, so that i can deliver a more specific and tailored service  | High | 
+| US #7 | As a relationship manager, i want to servce customers with the highest scores, so that i can achieve a sale efficiently  | High | 
+| US #8 | As an inbound customer, i want to view the prices of holiday packages in order of lowest to highest fares, so that i can choose the holiday packages efficiently.| Low | 
+| US #9 | As an inbound customer, i want to connect to the RMs that serve me before so that i can work with them easily | Medium | 
+| US #10 | As an inbound customer, i want to be directed to a relationship manager who is familliar with a particular holiday package, so that i can obtain reliable information about the place | Medium | 
+| US #11 | As an inbound customer, i want to view different holiday packages, so that i can develop more information about each place  |Low | 
+| US #12 | As a an inbound customer, i want to view the purchases made through the travel company, so i can review the holiday packages  | Medium |
+| US #13 | As an outbound customer, i want to see the feedback about the company before i made the purchase so that i can believe that i will not be scammed  | Medium |
+| US #14 | As Travel company, i want to save the customer's feedbacks so that we can improve the negative aspects of the company | Medium |
+| US #15 | As the Call Management Centre, i want to direct customers to an Interactive Voice Response when no relationship manager is available, so that we can gather feedback and information from the customer  | High |
+| US #16 | As the Call Management Centre, i want to be able to create, view and delete customer and relationship manager profiles, so that i keep information about end users updated | High |
+| US #17 | As the Call Management Centre, i want generate scores for relationship managers and customers, so that they can be matched based off this criteria | Medium |
 
 ## Prototyping and models - Workproducts, models and descriptions
 *short description of whats featured here 
