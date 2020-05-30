@@ -172,13 +172,13 @@ Similarly, with the development of the activity diagram, we began with initial a
 
 ***First Iteration***
 
-*For inbound customers:*
+*For Inbound Customers:*
 
 <p align="center">
   <img width="450" height="1100" img src="Inbound Customer Activity Map.png">
 </p>
 
-*For outbound customers:*
+*For Outbound Customers:*
 
 <p align="center">
   <img width="450" height="1100" img src="Activity diagram.png">
@@ -186,13 +186,13 @@ Similarly, with the development of the activity diagram, we began with initial a
 
 ***Second Iteration***
 
-*For inbound customers:*
+*For Inbound Customers:*
 
 <p align="center">
   <img width="700" height="850" img src="inbound customer Activity diagram.jpg">
 </p>
 
-*For outbound customers:*
+*For Outbound Customers:*
 
 <p align="center">
   <img width="600" height="900" img src="Activity Diagram.jpg">
@@ -204,7 +204,7 @@ Similarly, with the development of the activity diagram, we began with initial a
 The following class diagram shows the systems classes, their attributes, operations adn the relationsips among classes and objects.
 
 <p align="center">
-  <img width="900" height="600" img src="class diagram.PNG">
+  <img width="900" height="600" img src="Class Diagram.jpg">
 </p>
 
 ### Collaborative Diagrams
