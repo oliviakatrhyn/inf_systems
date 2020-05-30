@@ -143,6 +143,9 @@ Currently, our assumptions are based on our initial readings of the project outl
 
 ### Collaborative Diagrams
 
+## Scrum activities 
+*Explanation and outline of Scrum activities used
+
 ## Competitive advantages and possible effects if the project fails 
 
 *E.g. Potential benefits to the call center (in terms of reducing cost and being able to carry out more effective calls). (Around 500 words)
