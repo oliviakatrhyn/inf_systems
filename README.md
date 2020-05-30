@@ -132,30 +132,39 @@ Once we completed the key brainstorming exercises i.e. empathy map, POV statemen
 All these user stories formed the foundation of our solution to a new and improved Information System (IS) for the travel company. In the following sections, we explore the detailed models and descriptions of the IS process. 
 
 ## Prototyping and models - Workproducts, models and descriptions
-*short description of whats featured here 
+
+After identifying the key user stories, we integrated these use stories as use cases into our work products. The following diagrams are illustrated below: 
+- Use Case Diagram 
+- Class Diagram 
+- Activity Diagram 
+- Collaborative Diagram 
 
 ### Use case Diagrams
 
-*initial use case diagram - first iteration 
+*First Iteration* 
+
+At the beginning of the project, we developed an intial use case diagram, as seen below. However, after deliberation and constant review of the diagram and use cases, we developed a more in-depth model of the interactions between users and the system, as seen in the second iteration. 
+
 <p align="center">
-  <kbd>
   <img width="700" height="790" img src="Use case diagram about customer.png">
-  </kbd>
 </p>
+
+*Second Iteration* 
+
+For the second iteration, we decided to split the customer into Inbound Customers and Outbound Customers. This provided a clearer representation of the interactions that occur between the actors and their use cases. 
+
 <p align="center">
-  <kbd>
   <img width="700" height="900" img src="System for Inbound Calls (1).jpg">
-  </kbd>
 </p>
+
 <p align="center">
-  <kbd>
   <img width="700" height="900" img src="use case for outbound calls.jpg">
-  </kbd>
 </p>
+
+*Third Iteration* 
+
 <p align="center">
-  <kbd>
   <img width="700" height="800" img src="use case for online system.jpg">
-  </kbd>
 </p>
 
 ### Activity Diagrams
