@@ -211,23 +211,18 @@ The following class diagram shows the systems classes, their attributes, operati
 
 The following diagrams focus on the roles of the objects as they interact with the system. The directional links indicate the communication between objects and are labelled using messages. 
 
-Communication diagram for 
+Communication diagram for: *Making a booking via a Relationship Manager*
 
-<p align="center">
-  <img width="600" height="400" img src="collaborative diagram.jpeg">
-</p>
+  <img width="750" height="400" img src="collaborative diagram.jpeg">
 
-Communication diagram for: 
 
-<p align="center">
+Communication diagram for: *Matching a Customer to a suitable Relationship Manager*
+
   <img width="600" height="400" img src="collab diagram.jpeg">
-</p>
 
-Communication diagram for: 
+Communication diagram for: *Generating a Target List*
 
-<p align="center">
   <img width="600" height="400" img src="Untitled Document.png">
-</p>
 
 ## Scrum activities 
 *Explanation and outline of Scrum activities used
@@ -239,6 +234,17 @@ By concentrating on orchestration and management of agile software programs, Scr
 - Daily Scrum: The team will meet daily for about 15 minutes to update the progress of the work as well as share the difficulties encountered during software development. The work will continue if no problems occur.
 - Sprint Review: The work will be reviewed to complete by the product owner and development group to change or modify the products during the Sprint.
 - The team then reviews the Sprint and reflects on what they have learned and what they can improve for the next cycle.
+
+For this project, we used the Scrum development process to help facilitate teamwork, accountability, and iterative progress towards our defined goal for the new Information System. We used Git Hub as it seamlessly integrates transparency throughout the development of the project, as each team member was able to openly view, edit and provide feedback on each commit to the repository. 
+
+To begin with, we used user stories to develop our product backlog, as well as any arbitrary tasks which needed to be completed prior to that. For our first sprint, we generated a backlog, which contained the most important user stories, as that would form the foundations of our work products. These were labelled as ‘Important’ in the ‘Issues’ section of Git Hub. For example some user stories which were selected from the Product backlog for the initial sprint related to creating an existing customer profile and a corresponding RM profile. We used a Kanban board to help visualise and manage the issues which needed to be integrated in the sprint. We divided the board into ‘To do”, “In progress” and “Done”. Once a user story has been fully accounted for, only then was it allowed to be added to “Done”. This procedure was supportive of continuous delivery, enabling work products to be released and completed frequently to the Git Hub repository. 
+
+In relation to Scrum events implemented into the project, we took the basic format of many of the scrum meetings and tailored it to the context of this assignment (i.e. student commitments, the project didn’t require code development and inability for face to face communication). As a result, Scrum meetings were conducted primarily during tutorials and were instigated simultaneously during the class. During weekly tutorials we completed sprint planning meetings which consisted of the following: 
+-	We discussed the tasks that were completed in the prior week and tasks that need to be completed for the next week. 
+-	We conducted sprint review meetings by analysing the backlog not completed in the prior sprint and adding these features into our next sprint.  
+-	We conducted sprint review retrospective meeting by reviewing processes that worked well, what created the most problems and discussed solutions rectify problems for future sprints. 
+
+Throughout the week we maintained constant communication via social media platforms, emails, and weekly zoom calls (outside of class hours). This allowed for open and honest communication between team members, which ensured greater transparency in the project. Together, we completed iterations of our work products and continuously reviewed and edited user stories and assumptions. 
 
 
 ## Competitive advantages and possible effects if the project fails 
