@@ -141,7 +141,7 @@ After identifying the key user stories, we integrated these use stories as use c
 
 ### Use case Diagrams
 
-*First Iteration* 
+***First Iteration***
 
 At the beginning of the project, we developed an intial use case diagram, as seen below. However, after deliberation and constant review of the diagram and use cases, we developed a more in-depth model of the interactions between users and the system, as seen in the second iteration. 
 
@@ -149,17 +149,17 @@ At the beginning of the project, we developed an intial use case diagram, as see
   <img width="700" height="790" img src="Use case diagram about customer.png">
 </p>
 
-*Second Iteration* 
+***Second Iteration***
 
 For the second iteration, we decided to split the customer into Inbound Customers and Outbound Customers. This provided a clearer representation of the interactions that occur between the actors and their use cases. 
 
-<ins>For Inbound Customers:</ins>
+*For Inbound Customers:*
 
 <p align="center">
   <img width="700" height="900" img src="System for Inbound Calls (1).jpg">
 </p>
 
-<ins>For Outbound Customers: </ins>
+*For Outbound Customers:*
 
 <p align="center">
   <img width="700" height="900" img src="use case for outbound calls.jpg">
@@ -170,29 +170,29 @@ For the second iteration, we decided to split the customer into Inbound Customer
 
 Similarly, with the development of the activity diagram, we began with initial activity diagram, which then were later expanded to include greater depth on the systems interactions and functionality. 
 
-*First Iteration*
+***First Iteration***
 
-<ins>For inbound customers: </ins>
+*For inbound customers:*
 
 <p align="center">
   <img width="450" height="1100" img src="Inbound Customer Activity Map.png">
 </p>
 
-<ins>For outbound customers:</ins>
+*For outbound customers:*
 
 <p align="center">
   <img width="450" height="1100" img src="Activity diagram.png">
 </p>
 
-*Second Iteration*
+***Second Iteration***
 
-<ins>For inbound customers:</ins>
+*For inbound customers:*
 
 <p align="center">
   <img width="700" height="850" img src="inbound customer Activity diagram.jpg">
 </p>
 
-<ins>For outbound customers:</ins>
+*For outbound customers:*
 
 <p align="center">
   <img width="600" height="900" img src="Activity Diagram.jpg">
