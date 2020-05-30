@@ -220,6 +220,15 @@ Communication diagram for:
 ## Scrum activities 
 *Explanation and outline of Scrum activities used
 
+By concentrating on orchestration and management of agile software programs, Scrum contrasts with the technical emphasis of intense programming. The activities of SCRUM can be summarized as follows:
+- A group called sprints work on short cycles, estimated time in 3 weeks.
+- There is a product backlog list, which prioritizes other features or outputs or project requirements list.
+- Sprint Planning: Some features will be selected from the Product backlog before each sprint. The feature selected here is to create an existing customer profile and a corresponding RM profile may depend on age, gender, culture, language level, experience, and product knowledge. This feature was chosen because there were enough human resources and they believed it could be done in 3 weeks' work.
+- Daily Scrum: The team will meet daily for about 15 minutes to update the progress of the work as well as share the difficulties encountered during software development. The work will continue if no problems occur.
+- Sprint Review: The work will be reviewed to complete by the product owner and development group to change or modify the products during the Sprint.
+- The team then reviews the Sprint and reflects on what they have learned and what they can improve for the next cycle.
+
+
 ## Competitive advantages and possible effects if the project fails 
 
 *E.g. Potential benefits to the call center (in terms of reducing cost and being able to carry out more effective calls). (Around 500 words)
