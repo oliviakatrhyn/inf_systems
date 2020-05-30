@@ -99,7 +99,7 @@ Currently, our assumptions are based on our initial readings of the project outl
 #### Product Backlog/ User Stories 
 
 
-| User Story Number  | User Story Description | Priority (High, Medium, Low) |
+| User Story Number  | User Story | Priority |
 | ------------- | ------------- | ---------- |
 | US #1 | As a relationship manager, i want my special discounts rates to be displayed to me so that i can offer my clients competitive rates  | Low | 
 | US #2 | As a relationship manager, i want to record any sales made, so that i can improve my skill score | High | 
