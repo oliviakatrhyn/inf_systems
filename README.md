@@ -21,22 +21,30 @@ Our key stakeholders for this new operating system include:
 -	Call Management Centre (CMC)
 
 ### Empathy Maps 
-
+<kbd>
 <p align="center">
   <img width="900" height="600" img src="EmpathyMap_CallManagementCenter.png">
 </p>
-
+</kbd>
+ <br />
+<kbd>
 <p align="center">
   <img width="900" height="600" img src="EmpathyMap_RelationshipManager.png">
 </p>
-
+</kbd>
+ <br />
+<kbd>
 <p align="center">
   <img width="900" height="600" img src="EmpathyMap_OutgoingCustomers.png">
 </p>
-
+</kbd>
+ <br />
+<kbd>
 <p align="center">
   <img width="900" height="600" img src="EmpathyMap_IncomingCustomers.png">
 </p>
+</kbd>
+ <br />
 
 ### Point of View Statements
 
@@ -124,7 +132,15 @@ Currently, our assumptions are based on our initial readings of the project outl
 
 ### Use case Diagrams
 ### Activity Diagrams
-### Class Diagrams
+### Class Diagram
+
+<kbd>
+<p align="center">
+  <img width="900" height="600" img src="class diagram.PNG">
+</p>
+</kbd>
+ <br />
+
 ### Collaborative Diagrams
 
 ## Competitive advantages and possible effects if the project fails 
