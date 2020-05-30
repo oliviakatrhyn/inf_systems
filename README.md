@@ -1,7 +1,7 @@
 # Information Systems Development Project 
 
 ## Objectives of the Project 
-The objectives of this project is to improve the processes that are currently implemented at the majore travel company's Call Management Centre (CMC). The information gathered through reading the document specification of the travel company  has highlighted the changes that our customers would like to see integrated into the new Information System (IS). It is understood that the current model is outdated and needs to be more streamlined in order to achieve maximum efficiecny and effectivness. Moreover, a supporting tool for creating customer profiles that exist that corresponds to the RM profile may depend on age, gender, culture, language level, experience and product knowledge
+The objectives of this project is to improve the processes that are currently implemented at the majore travel company's Call Management Centre (CMC). The information gathered through reading the document specification of the travel company  has highlighted the changes that our customers would like to see integrated into the new Information System (IS). It is understood that the current model is outdated and needs to be more streamlined in order to achieve maximum efficiecny and effectivness. 
 
 ## Design thinking approach 
 
@@ -9,7 +9,7 @@ The objectives of this project is to improve the processes that are currently im
 
 Currently, Relationship managers communicate with customers through the in-house call management centre. The current operating system inefficiently directs inbound and outbound customers to relationship managers, resulting in lost customers, due to long waiting periods and ill informed services, which further leads to loss of sales and loss of repeat customers  
 
-To reduce these inefficiencies, the information system should integrate improved call routing and dynamic flow control to better suit relationship managers to their customers and reduce the waiting period of potential buyers. 
+To reduce these inefficiencies, the information system should integrate improved call routing and dynamic flow control to better suit relationship managers to their customers and reduce the waiting period of potential buyers. Moreover, a supporting tool for creating customer profiles should exist, as well as as profiling tool for Relationship managers that stores there age, gender, culture, language level, experience and product knowledge.
 
 ### Stakeholders 
 
