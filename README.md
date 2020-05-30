@@ -153,12 +153,13 @@ At the beginning of the project, we developed an intial use case diagram, as see
 
 For the second iteration, we decided to split the customer into Inbound Customers and Outbound Customers. This provided a clearer representation of the interactions that occur between the actors and their use cases. 
 
-For Inbound Customers 
+<ins>For Inbound Customers:</ins>
+
 <p align="center">
   <img width="700" height="900" img src="System for Inbound Calls (1).jpg">
 </p>
 
-For Outbound Customers 
+<ins>For Outbound Customers: </ins>
 
 <p align="center">
   <img width="700" height="900" img src="use case for outbound calls.jpg">
@@ -171,21 +172,32 @@ Similarly, with the development of the activity diagram, we began with initial a
 
 *First Iteration*
 
-<p align="center">
-  <img width="450" height="1100" img src="Activity diagram.png">
-</p>
+<ins>For inbound customers: </ins>
 
 <p align="center">
   <img width="450" height="1100" img src="Inbound Customer Activity Map.png">
 </p>
 
+<ins>For outbound customers:</ins>
+
+<p align="center">
+  <img width="450" height="1100" img src="Activity diagram.png">
+</p>
+
 *Second Iteration*
+
+<ins>For inbound customers:</ins>
+
+<p align="center">
+  <img width="700" height="850" img src="inbound customer Activity diagram.jpg">
+</p>
+
+<ins>For outbound customers:</ins>
 
 <p align="center">
   <img width="600" height="900" img src="Activity Diagram.jpg">
 </p>
 
---include second activity diagram for inbound callers 
 
 ### Class Diagrams
 
