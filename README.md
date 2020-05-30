@@ -153,69 +153,70 @@ At the beginning of the project, we developed an intial use case diagram, as see
 
 For the second iteration, we decided to split the customer into Inbound Customers and Outbound Customers. This provided a clearer representation of the interactions that occur between the actors and their use cases. 
 
+For Inbound Customers 
 <p align="center">
   <img width="700" height="900" img src="System for Inbound Calls (1).jpg">
 </p>
+
+For Outbound Customers 
 
 <p align="center">
   <img width="700" height="900" img src="use case for outbound calls.jpg">
 </p>
 
-*Third Iteration* 
-
-<p align="center">
-  <img width="700" height="800" img src="use case for online system.jpg">
-</p>
 
 ### Activity Diagrams
 
-*insert details about this graph 
+Similarly, with the development of the activity diagram, we began with initial activity diagram, which then were later expanded to include greater depth on the systems interactions and functionality. 
+
+*First Iteration*
+
 <p align="center">
-  <kbd>
-  <img width="600" height="900" img src="Activity Diagram.jpg">
-  </kbd>
-</p>
-*insert details about this graph
-<p align="center">
-  <kbd>
   <img width="450" height="1100" img src="Activity diagram.png">
-  </kbd>
 </p>
-*insert details about this graph 
+
 <p align="center">
-  <kbd>
   <img width="450" height="1100" img src="Inbound Customer Activity Map.png">
-  </kbd>
 </p>
+
+*Second Iteration*
+
+<p align="center">
+  <img width="600" height="900" img src="Activity Diagram.jpg">
+</p>
+
+--include second activity diagram for inbound callers 
 
 ### Class Diagrams
 
+The following class diagram shows the systems classes, their attributes, operations adn the relationsips among classes and objects.
+
 <p align="center">
-  <kbd>
   <img width="900" height="600" img src="class diagram.PNG">
-  </kbd>
 </p>
 
 ### Collaborative Diagrams
 
------insert information of the following diagram
- 
+The following diagrams focus on the roles of the objects as they interact with the system. The directional links indicate the communication between objects and are labelled using messages. 
+
+Communication diagram for 
+
 <p align="center">
-  <kbd>
   <img width="600" height="400" img src="collaborative diagram.jpeg">
-  </kbd>
 </p>
- -----insert information of the following diagram 
+
+Communication diagram for: 
+
 <p align="center">
-   <kbd>
   <img width="600" height="400" img src="collab diagram.jpeg">
-     </kbd>
 </p>
+
+Communication diagram for: 
+
 <p align="center">
-   <kbd>
   <img width="600" height="400" img src="Untitled Document.png">
-     </kbd>
 </p>
+
 ## Scrum activities 
 *Explanation and outline of Scrum activities used
 
