@@ -23,42 +23,32 @@ Our key stakeholders for this new operating system include:
 ### Empathy Maps 
 
 <p align="center">
-  <kbd>
   <img width="900" height="600" img src="EmpathyMap_CallManagementCenter.png">
-  </kbd>
 </p>
+
 <p align="center">
-  <kbd>
   <img width="900" height="600" img src="EmpathyMap_RelationshipManager.png">
-</kbd>
 </p>
+
 <p align="center">
-  <kbd>
   <img width="900" height="600" img src="EmpathyMap_OutgoingCustomers.png">
-    </kbd>
 </p>
+
 <p align="center">
-  <kbd>
   <img width="900" height="600" img src="EmpathyMap_IncomingCustomers.png">
-  </kbd>
 </p>
 
 ### Point of View Statements
 
-The following are the key Point of View (POV) statements which were identified through analysing the project specification and the empathy maps. 
-
 | POV Statment Number | Description |
 | --- | --- |
-| POV #1| A customer should be connected with the best suited relationship manager that has knowledge and experience with their holiday pakcage of interest. The more reliable the information and detail the relationship manager can provide will lead to improved customer relationships and increase likelihood of a sale purchase|
-| POV #2| A relationship manager needs a way to make outbound calls and receive inbound calls, whilst also delivering efficient and well-informed conversations about potential holiday packages. They need to be matched with callers that are express interest in their field of experience so that they provide reliable information to the customer |
-| POV #3| A customer who is interested in holiday package needs a way to communicate efficiently with a well-informed relationship manager on the holiday package that interest them the most because this will help in their decision to purchase a package.|
-
-The POV statements served as tool to optimize the work process, to benefit the companys understanding of end users and to launch our brainstorm of How Might We (HMW) statements, which is featured below.
+| POV #1 | An inbound customers needs to be able to hang up when call holds up become too long because customers will not have the opportunity to wait extended period of time
+| POV #2 | A customer should be coordinated with the best possible RM because this will greatly improve the likelihood of sales and customers will be provided with better suited products |
+| POV #3| A relationship manager needs a way to make outbound calls and receive inbound calls, whilst also delivering efficient and well-informed conversations about potential holiday packages. They need to be able to provide genuine conversation about holiday packages that might interest the caller to efficiently and effectively achieve a sale. |
+| POV #4| A customer who is interested in holiday package needs a way to communicate efficiently with a well-informed relationship manager on the holiday package that interest them the most because this will help in their decision to purchase a package.|
+| POV #5| Company should divide the customer into 2 types which are new customer and old customer. And then the customer that have used the service before should be matched with the RM that served them before so it will have the good results and there will have a good feedback from the customer. |
 
 ### How Might We Statements 
-
-The following table shows all of the How Might We Statements (HMW) built from the POV statements. 
-
 |HMW Number | How Might We... | 
 | --- | --- |
 | HMW #1 | reduce the time that the customer do need to hang up  |
@@ -104,8 +94,10 @@ Currently, our assumptions are based on our initial readings of the project outl
 - do not have any dificulties during the working process
 
 ### Ideation 
+*reflection add - need to reflect on the processes undertook 
 
-Once we completed the key brainstorming exercises i.e. empathy map, POV statements and HMW statements, we used this understanding of the end user to formulate user stories. The further brainstorming of user stories, formed the product backlog for our project. Eventually, these user stories were incoporated into work products.
+#### Product Backlog/ User Stories 
+
 
 | User Story Number  | User Story | Priority |
 | ------------- | ------------- | ---------- |
@@ -127,110 +119,22 @@ Once we completed the key brainstorming exercises i.e. empathy map, POV statemen
 | US #16 | As the Call Management Centre, i want to be able to create, view and delete customer and relationship manager profiles, so that i keep information about end users updated | High |
 | US #17 | As the Call Management Centre, i want generate scores for relationship managers and customers, so that they can be matched based off this criteria | Medium |
 
-All these user stories formed the foundation of our solution to a new and improved Information System (IS) for the travel company. In the following sections, we explore the detailed models and descriptions of the IS process. 
-
 ## Prototyping and models - Workproducts, models and descriptions
 *short description of whats featured here 
 
-this is the "deisgn" phase of the system - deisgning all the work products w
-why did we do them 
-how did we do them 
-
 ### Use case Diagrams
-*initial use case diagram - first iteration 
-
-
-<p align="center">
-  <kbd>
-  <img width="700" height="790" img src="Use case diagram about customer.png">
-  </kbd>
-</p>
-
-<p align="center">
-  <kbd>
-  <img width="700" height="900" img src="System for Inbound Calls (1).jpg">
-  </kbd>
-</p>
-
-<p align="center">
-  <kbd>
-  <img width="700" height="900" img src="use case for outbound calls.jpg">
-  </kbd>
-</p>
-
-<p align="center">
-  <kbd>
-  <img width="700" height="800" img src="use case for online system.jpg">
-  </kbd>
-</p>
-
-
 ### Activity Diagrams
-
-*insert details about this graph 
-<p align="center">
-  <kbd>
-  <img width="600" height="900" img src="Activity Diagram.jpg">
-  </kbd>
-</p>
-*insert details about this graph
-<p align="center">
-  <kbd>
-  <img width="450" height="1100" img src="Activity diagram.png">
-  </kbd>
-</p>
-*insert details about this graph 
-<p align="center">
-  <kbd>
-  <img width="450" height="1100" img src="Inbound Customer Activity Map.png">
-  </kbd>
-</p>
-
-
-### Class Diagram
-
-
-<p align="center">
-  <kbd>
-  <img width="900" height="600" img src="class diagram.PNG">
-  </kbd>
-</p>
-
-
-
+### Class Diagrams
 ### Collaborative Diagrams
-
- -----insert information of the following diagram
- 
-
-<p align="center">
-  <kbd>
-  <img width="600" height="400" img src="collaborative diagram.jpeg">
-  </kbd>
-</p>
-
- -----insert information of the following diagram 
-
-<p align="center">
-   <kbd>
-  <img width="600" height="400" img src="collab diagram.jpeg">
-     </kbd>
-</p>
-
-<p align="center">
-   <kbd>
-  <img width="600" height="400" img src="Untitled Document.png">
-     </kbd>
-</p>
-
-
-## Scrum activities 
-*Explanation and outline of Scrum activities used
 
 ## Competitive advantages and possible effects if the project fails 
 
 *E.g. Potential benefits to the call center (in terms of reducing cost and being able to carry out more effective calls). (Around 500 words)
 
+Failure in projects will occur in any organization or project. There are countless explanations for failure. Often a project manager and/or team members are out of sight. Failure may often be verified. Some issues have in common failing projects and people involved in failure.
 By developing a new information system, the following competitive advantages can be achieved: Save time because the system will automatically dial for RMs according to the customer target list created by the system. In particular, it will reach potential customers in-depth, meet the needs of customers, and bring greater revenue.
-If the system fails, the business will have to spend a lot of money and time to invest in this project. Moreover, the way of operation is not improved can lead to a reduction in the number of potential customers, thereby reducing the company's revenue and profit.
+Some of the best ways to reduce costs and increasing the level of customer service is to ensure the necessary knowledge, training and tools are available for the agents to react appropriately to customer needs. This can be achieved by hiring agents who are ideally qualified, who train them to succeed and provide regular performance reviews and coaching. A team of great call centers will help improve first call resolution, reduce time and improve the customer service quality.
+Create the requirements for customers and take their contact details before going any further. It means that staff can track the questionnaire. When the customer wants a specific service or product which you do not sell, then open up the discussion and learn more.
+If the system fails, the business will have to spend a lot of money and time to invest in this project. Moreover, the way of operation is not improved can lead to a reduction in the number of potential customers, thereby reducing the company's revenue and profit. Lower customer's satisfaction is one of the reason that could contribute to reduce the number of customer. And staffs that experience significant workplace stress are less effective, knowledgeable, and productive. Call centers that are more conductive to stress have higher agent turnover rates for agents. Therefore, the staff could be work less effectively which cause to affect the customer services
+
 
