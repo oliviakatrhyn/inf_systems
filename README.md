@@ -190,16 +190,27 @@ The following diagrams focus on the roles of the objects as they interact with t
 
 Collaborative diagram for: ***Making a booking via a Relationship Manager***
 
+<p align="center">
+  <kbd>
   <img width="750" height="400" img src="Collab 1 - Customer & Booking.jpeg">
-
+  </kbd>
+</p>
 
 Collaborative diagram for: ***Matching a Customer to an appropriate Relationship Manager***
 
+<p align="center">
+   <kbd>
   <img width="600" height="400" img src="Collab 2 - Match RM (2).jpeg">
+   </kbd>
+</p>
 
 Collaborative diagram for: ***Generating a Target List***
 
+<p align="center">
+   <kbd>
   <img width="600" height="400" img src="Collab 3- Make Target List.jpeg">
+   </kbd>
+</p>
 
 ## Scrum activities 
 
@@ -223,6 +234,6 @@ The proposed call management system has the potential to contribute significantl
 
 ***Impact of System Failure***
 
-Hypothetically, if the system implementation fails, the time and resources spent on training employees, developing the program and implementing the system would be wasted. Not only would employee satisfaction be squandered, but customers may feel nervous or confused as to the effectiveness of the travel companys operations and may seek out other company's. For example, If the system fails to match customers to appropriate RMs, customers may doubt the realibility of the RMs performance and may revert to other travel companys or seek out online holiday packages, completely eliminating the RM role in the process. This will be a big loss to the companys sales potential and may lead to ceased operations of the call management centre if the system fails. 
+Hypothetically, if the system implementation fails, the time and resources spent on training employees, developing the program and implementing the system would be wasted. Not only would employee satisfaction be squandered, but customers may feel nervous or confused as to the effectiveness of the travel companys operations and may seek out other companys to provide the service. For example, If the system fails to match customers to appropriate RMs, customers may doubt the realibility of the RMs performance and may revert to other travel companys or seek out online holiday packages, completely eliminating the RM role in the process. This will be a big loss to the companys sales potential and may lead to ceased operations of the call management centre if the system fails. 
 
 Nonetheless, should implementaitons of the system run smoothly, the derived benefits are abundant. To summarise, the system will increase productivity, employee and customer satisfaction, facillitate more meaninful relationships and maintain customer loyalty. While the company is opened up to risks of failure, the reward greatly outweighs this.
