@@ -149,10 +149,10 @@ For the second iteration, we decided to split the customer into Inbound Customer
 ***For Inbound Customers:***
 
 <p align="center">
-  <img width="700" height="900" img src="UCD Inbound Final.jpg">
+  <img width="800" height="900" img src="UCD Inbound Final.jpg">
 </p>
 
-*For Outbound Customers:*
+***For Outbound Customers:***
 
 <p align="center">
   <img width="700" height="900" img src="UCD Outbound Final (1).jpg">
@@ -166,13 +166,13 @@ Similarly, with the development of the activity diagram, we began with initial a
 ***For Inbound Customers:***
 
 <p align="center">
-  <img width="700" height="850" img src="IB AD Final.jpg">
+  <img width="700" height="800" img src="IB AD Final.jpg">
 </p>
 
 ***For Outbound Customers:***
 
 <p align="center">
-  <img width="600" height="900" img src="OB AD Final.jpg">
+  <img width="700" height="1100" img src="OB AD Final.jpg">
 </p>
 
 
@@ -195,7 +195,7 @@ Collaborative diagram for: ***Making a booking via a Relationship Manager***
 
 Collaborative diagram for: ***Matching a Customer to an appropriate Relationship Manager***
 
-  <img width="600" height="400" img src="Collab 2 - Match RM.jpeg">
+  <img width="600" height="400" img src="Collab 2 - Match RM (2).jpeg">
 
 Collaborative diagram for: ***Generating a Target List***
 
