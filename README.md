@@ -6,11 +6,21 @@ Video presentation hyperlink: https://www.youtube.com/watch?v=0FaoOdVmQfs&featur
 
 The objectives of this project is to improve the processes that are currently implemented at the travel company's Call Management Centre (CMC). The information gathered through reading the document specification of the travel company  has highlighted the changes that our user would like to see integrated into the new Information System (IS). It is understood that the current model is outdated and needs to be more streamlined in order to achieve maximum efficiency and effectivness when making sales. 
 
+#### Abbreviations 
+
+These are abbreviations of words which will be seen throughout the report. 
+
+| Abbreviation | Word |
+| --- | ---| 
+| CMC | Call Management Centre | 
+| RM | Relationship Manager | 
+| IS | Information System |
+
 ## Design thinking approach 
 
 ### Problem definition 
 
-Currently, Relationship managers communicate with customers through the in-house call management centre, arbitrarily directsing both inbound and outbound customers to relationship managers, with little to no experince in the customers holiday of interest, resulting in unsatisfied customers,long waiting periods, unreliable and inefficient services, which has lead to loss of sales and reduced the ability to establish loyal customers to the company. The following report outlines the proposed new Information System (IS), which will integrate new features and processes to facillitate a better interaction between key stakeholders. 
+Currently, the in-house CM arbitrarily redirects both inbound and outbound Customers to RMs, with little to no experince in the customers holiday of interest, resulting in unsatisfied customers, long waiting periods, unreliable and inefficient services. Overall, the quality of service is loss, leading to declining sales and weak customer loyalty. The following report outlines the proposed new IS, which will integrate new features and processes to facillitate a better interaction between key stakeholders. 
 
 ### Stakeholders 
 
@@ -18,10 +28,10 @@ Our key stakeholders for this new operating system include:
 
 -	Inbound customer callers
 -	Outbound customer callers
--	Relationship manager (RM) 
--	Call Management Centre (CMC)
+-	Relationship manager 
+-	Call Management Centre
 
-We have empathised with each of these customises by creating empathy maps for each of these key stakeholders. This is featured in the section below.
+We created empathy maps for each of these stakeholders in order to create a shared understanding of each users needs. This is featured in the section below.
 
 ### Empathy Maps 
 
@@ -55,10 +65,10 @@ The following are the key Point of View (POV) statements which were identified t
 
 | ID |  POV Statement |
 | ----- | --- |
-| POV #1| A customer should be connected with the best suited relationship manager that has knowledge and experience with their holiday pakcage of interest. The more reliable the information and detail the relationship manager can provide will lead to improved customer relationships and increase likelihood of a sale purchase. |
-| POV #2| A customer who is interested in holiday package needs a way to communicate efficiently with a well-informed relationship manager on the holiday package that interest them the most because this will help in their decision to purchase a package. |
-| POV #3| A relationship manager needs a way to make outbound calls and receive inbound calls, whilst also delivering efficient and well-informed conversations about potential holiday packages. They need to be matched with callers that are express interest in their field of experience so that they provide reliable information to the customer. |
-| POV #4| The Call Management Centre must be able to recieve calls from inbound customers and then allocate them to their suitable relationship mangager. In addition to this, they need to be able to source outbound callers, and then provide these details to specific relationship managers who are then tasked to conduct the outbound calls. |
+| POV#1| A customer should be connected with the best suited relationship manager that has knowledge and experience with their holiday pakcage of interest. The more reliable the information and detail the relationship manager can provide will lead to improved customer relationships and increase likelihood of a sale purchase. |
+| POV#2| A customer who is interested in holiday package needs a way to communicate efficiently with a well-informed relationship manager on the holiday package that interest them the most because this will help in their decision to purchase a package. |
+| POV#3| A relationship manager needs a way to make outbound calls and receive inbound calls, whilst also delivering efficient and well-informed conversations about potential holiday packages. They need to be matched with callers that are express interest in their field of experience so that they provide reliable information to the customer. |
+| POV#4| The Call Management Centre must be able to recieve calls from inbound customers and then allocate them to their suitable relationship mangager. In addition to this, they need to be able to source outbound callers, and then provide these details to specific relationship managers who are then tasked to conduct the outbound calls. |
 
 The POV statements served as tool to optimize the work process, to benefit the companys understanding of end users and to launch our brainstorm of How Might We (HMW) statements (as seen in the following section). 
 
@@ -68,23 +78,23 @@ The following table shows all of the How Might We Statements (HMW) built from th
 
 | ID | How Might We... | 
 | --- | --- |
-| HMW #1 | reduce the time that the customer do need to hang up  |
-| HMW #2 | improve the relationship between staffs and customers  |
-| HMW #3 | improve the quality in the conversation betweem customers and RMs  |
-| HMW #4 | understand which products that customers want to know about  |
-| HMW #5 |enable the relationship manager to make outbound calls   |
-| HMW #6 | enable the relationship manager to make and receive well informed conversations with potential buyers  |
-| HMW #7 | increase the amount of calls completed by the relationship manager  |
-| HMW #8 | decrease the waiting period between each inbound customer  |
-| HMW #9 | speed up the time the relationship manager spends with its clients |
-| HMW #10 | assist the relationship manager in developing genuine relationships between customers and business |
-| HMW #11 | assist the customer in communicating their interests  |
-| HMW #12 | provide a suitable relationship manager to customers |
-| HMW #13 | increase the time taken to make a purchase with a customer |
-| HMW #14 |  identify which customers previously used the service before |
-| HMW #15 | improve the staff skill so they can serve the new customer with the best they can |
-| HMW #16 | match the RM with the buyer that they have talked before |
-| HMW #17 | receive the feedback from the customer that can improve the quality of the service| 
+| HMW#1 | reduce the time that the customer do need to hang up  |
+| HMW#2 | improve the relationship between staffs and customers  |
+| HMW#3 | improve the quality in the conversation betweem customers and RMs  |
+| HMW#4 | understand which products that customers want to know about  |
+| HMW#5 |enable the relationship manager to make outbound calls   |
+| HMW#6 | enable the relationship manager to make and receive well informed conversations with potential buyers  |
+| HMW#7 | increase the amount of calls completed by the relationship manager  |
+| HMW#8 | decrease the waiting period between each inbound customer  |
+| HMW#9 | speed up the time the relationship manager spends with its clients |
+| HMW#10 | assist the relationship manager in developing genuine relationships between customers and business |
+| HMW#11 | assist the customer in communicating their interests  |
+| HMW#12 | provide a suitable relationship manager to customers |
+| HMW#13 | increase the time taken to make a purchase with a customer |
+| HMW#14 |  identify which customers previously used the service before |
+| HMW#15 | improve the staff skill so they can serve the new customer with the best they can |
+| HMW#16 | match the RM with the buyer that they have talked before |
+| HMW#17 | receive the feedback from the customer that can improve the quality of the service| 
 
 ### Reflection
 
@@ -104,11 +114,12 @@ One of the biggest challenges so far is understanding the scope of the project a
 Currently, our assumptions are based on our initial readings of the project outline. This is what we assume about the existing and new system, however, these are subject to change and/or  are expected to be resolved later in the project.
 - The relationship manager can create a customer profile using the profiler tool. 
 - Relationship managers can edit their profile
-- relationship managers can make a purchase on behalf of the customer 
-- achieiving a sale involves a purchase by the customer
-- new customers will be automatically be allocated low priority 
-- we have enough human resources to complete the work during a short time period
-- do not have any dificulties during the working process
+- Relationship managers can make a purchase on behalf of the customer 
+- Achieiving a sale involves a purchase by the customer
+- New customers will be automatically be allocated low priority 
+- We have enough human resources to complete the work during a short time period
+- Do not have any dificulties during the working process
+- Once a relationship manager is allocated a Target List, they are on a continous loop to make calls to each contact on that list. Once one call ends, the next caller is initiated. 
 
 ### Ideation 
 
@@ -119,23 +130,23 @@ Using our understanding of the stakeholders and their, gained from brainstomring
 
 | ID  | User Story | Priority |
 | ------------- | ------------- | ---------- |
-| US #1 | As a relationship manager, i want to record any sales made, so that i can improve my skill score | High | 
-| US #2 | As a relationship manager, i want to be able to input customers payment details on there behalf, so that i can make a payment for a holiday package | High | 
-| US #3 | As a relationship manager, i want to be able to create, edit and delete my profile, so that i can keep customers updated on my skill, experiences and knowledge.  | High | 
-| US #4 | As a relationship manager, i want to retrieve the target list, so that i can make calls to outbound customers | High | 
-| US #5 | As a relationship manager, i want to view customers details and potential holiday packages, so that i can deliver a more specific and tailored service  | High | 
-| US #6 | As a relationship manager, i want to servce customers with the highest scores, so that i can achieve a sale efficiently  | High | 
-| US #7 | As the Call Management Centre, i want to direct customers to an Interactive Voice Response when no relationship manager is available, so that we can gather feedback and information from the customer  | High |
-| US #8 | As the Call Management Centre, i want to be able to create, view and delete customer and relationship manager profiles, so that i keep information about end users updated | High |
-| US #9 | As an inbound customer, i want to connect to the RMs that serve me before so that i can work with them easily | Medium | 
-| US #10 | As an inbound customer, i want to be directed to a relationship manager who is familliar with a particular holiday package, so that i can obtain reliable information about the place | Medium | 
-| US #11 | As a an inbound customer, i want to view the purchases made through the travel company, so i can review the holiday packages  | Medium |
-| US #12 | As an outbound customer, i want to see the feedback about the company before i made the purchase so that i can believe that i will not be scammed  | Medium |
-| US #13 | As Travel company, i want to save the customer's feedbacks so that we can improve the negative aspects of the company | Medium |
-| US #14 | As the Call Management Centre, i want generate scores for relationship managers and customers, so that they can be matched based off this criteria | Medium |
-| US #15 | As an inbound customer, i want to view different holiday packages, so that i can develop more information about each place  |Low | 
-| US #16 | As an inbound customer, i want to view the prices of holiday packages in order of lowest to highest fares, so that i can choose the holiday packages efficiently.| Low | 
-| US #17 | As a relationship manager, i want my special discounts rates to be displayed to me so that i can offer my clients competitive rates  | Low | 
+| US#1 | As a relationship manager, i want to record any sales made, so that i can improve my skill score | High | 
+| US#2 | As a relationship manager, i want to be able to input customers payment details on there behalf, so that i can make a payment for a holiday package | High | 
+| US#3 | As a relationship manager, i want to be able to create, edit and delete my profile, so that i can keep customers updated on my skill, experiences and knowledge.  | High | 
+| US#4 | As a relationship manager, i want to retrieve the target list, so that i can make calls to outbound customers | High | 
+| US#5 | As a relationship manager, i want to view customers details and potential holiday packages, so that i can deliver a more specific and tailored service  | High | 
+| US#6 | As a relationship manager, i want to servce customers with the highest scores, so that i can achieve a sale efficiently  | High | 
+| US#7 | As the Call Management Centre, i want to direct customers to an Interactive Voice Response when no relationship manager is available, so that we can gather feedback and information from the customer  | High |
+| US#8 | As the Call Management Centre, i want to be able to create, view and delete customer and relationship manager profiles, so that i keep information about end users updated | High |
+| US#9 | As an inbound customer, i want to connect to the RMs that serve me before so that i can work with them easily | Medium | 
+| US#10 | As an inbound customer, i want to be directed to a relationship manager who is familliar with a particular holiday package, so that i can obtain reliable information about the place | Medium | 
+| US#11 | As a an inbound customer, i want to view the purchases made through the travel company, so i can review the holiday packages  | Medium |
+| US#12 | As an outbound customer, i want to see the feedback about the company before i made the purchase so that i can believe that i will not be scammed  | Medium |
+| US#13 | As Travel company, i want to save the customer's feedbacks so that we can improve the negative aspects of the company | Medium |
+| US#14 | As the Call Management Centre, i want generate scores for relationship managers and customers, so that they can be matched based off this criteria | Medium |
+| US#15 | As an inbound customer, i want to view different holiday packages, so that i can develop more information about each place  |Low | 
+| US#16 | As an inbound customer, i want to view the prices of holiday packages in order of lowest to highest fares, so that i can choose the holiday packages efficiently.| Low | 
+| US#17 | As a relationship manager, i want my special discounts rates to be displayed to me so that i can offer my clients competitive rates  | Low | 
 
 All these user stories formed the foundation of our solution to a new and improved Information System (IS) for the travel company. In the following sections, we explore the detailed models and descriptions of the IS process. 
 
@@ -172,7 +183,8 @@ It was important to elaborate on the first iteration of the use case diagram as 
 <p align="center">
   <img width="700" height="900" img src="UCD Outbound Final (1).jpg">
 </p>
-
+ 
+For the outbound customer, the diagram is simplified as customers are no longer directed to the Automatic Voice Response. Once the process of getting a target and making the first call begins, the allocated R< must work through the contact list until completion. They obtain this target list by requesting it from the Call Management centre which serves as database for extracting outbound contacts. As can be seen in the diagram, the Customer has little interaction with the actual system but assist in making a booking and payment with the RM. 
 
 ### Activity Diagrams
 
