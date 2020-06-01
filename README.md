@@ -9,7 +9,7 @@ The objectives of this project is to improve the processes that are currently im
 
 Currently, Relationship managers communicate with customers through the in-house call management centre. The current operating system inefficiently directs inbound and outbound customers to relationship managers, resulting in lost customers, due to long waiting periods and ill informed services, which further leads to loss of sales and loss of repeat customers  
 
-To reduce these inefficiencies, the information system should integrate improved call routing and dynamic flow control to better suit relationship managers to their customers and reduce the waiting period of potential buyers. Moreover, a supporting tool for creating customer profiles should exist, as well as as profiling tool for Relationship managers that stores there age, gender, culture, language level, experience and product knowledge.
+To reduce these inefficiencies, the information system should integrate improved call routing and dynamic flow control to better suit relationship managers to their customers and reduce the waiting period of potential buyers. 
 
 ### Stakeholders 
 
@@ -42,6 +42,7 @@ Our key stakeholders for this new operating system include:
   <img width="900" height="600" img src="EmpathyMap_IncomingCustomers.png">
   </kbd>
 </p>
+
 ### Point of View Statements
 
 The following are the key Point of View (POV) statements which were identified through analysing the project specification and the empathy maps. 
@@ -141,28 +142,20 @@ After identifying the key user stories, we integrated these use stories as use c
 
 ### Use case Diagrams
 
-***First Iteration***
-
-At the beginning of the project, we developed an intial use case diagram, as seen below. However, after deliberation and constant review of the diagram and use cases, we developed a more in-depth model of the interactions between users and the system, as seen in the second iteration. 
-
-<p align="center">
-  <img width="700" height="790" img src="Use case diagram about customer.png">
-</p>
-
-***Second Iteration***
+At the beginning of the project, we developed an intial use case diagram. However, after deliberation and constant review of the diagram and use cases, we developed a more in-depth model of the interactions between users and the system, as seen in the second iteration. 
 
 For the second iteration, we decided to split the customer into Inbound Customers and Outbound Customers. This provided a clearer representation of the interactions that occur between the actors and their use cases. 
 
-*For Inbound Customers:*
+***For Inbound Customers:***
 
 <p align="center">
-  <img width="700" height="900" img src="System for Inbound Calls (1).jpg">
+  <img width="700" height="900" img src="UCD Inbound Final.jpg">
 </p>
 
 *For Outbound Customers:*
 
 <p align="center">
-  <img width="700" height="900" img src="use case for outbound calls.jpg">
+  <img width="700" height="900" img src="UCD Outbound Final (1).jpg">
 </p>
 
 
@@ -170,70 +163,45 @@ For the second iteration, we decided to split the customer into Inbound Customer
 
 Similarly, with the development of the activity diagram, we began with initial activity diagram, which then were later expanded to include greater depth on the systems interactions and functionality. 
 
-***First Iteration***
-
-*For Inbound Customers:*
+***For Inbound Customers:***
 
 <p align="center">
-  <img width="450" height="1100" img src="Inbound Customer Activity Map.png">
+  <img width="700" height="850" img src="IB AD Final.jpg">
 </p>
 
-*For Outbound Customers:*
+***For Outbound Customers:***
 
 <p align="center">
-  <img width="450" height="1100" img src="Activity diagram.png">
-</p>
-
-***Second Iteration***
-
-*For Inbound Customers:*
-
-<p align="center">
-  <img width="700" height="850" img src="inbound customer Activity diagram.jpg">
-</p>
-
-*For Outbound Customers:*
-
-<p align="center">
-  <img width="600" height="900" img src="Activity Diagram.jpg">
+  <img width="600" height="900" img src="OB AD Final.jpg">
 </p>
 
 
-### Class Diagrams
+### Class Diagram
 
 The following class diagram shows the systems classes, their attributes, operations adn the relationsips among classes and objects.
 
 <p align="center">
-  <img width="900" height="600" img src="Class Diagram.jpg">
+  <img width="900" height="600" img src="Class Diagram wPayment.jpg">
 </p>
 
 ### Collaborative Diagrams
 
 The following diagrams focus on the roles of the objects as they interact with the system. The directional links indicate the communication between objects and are labelled using messages. 
 
-Communication diagram for: *Making a booking via a Relationship Manager*
+Collaborative diagram for: ***Making a booking via a Relationship Manager***
 
-  <img width="750" height="400" img src="collaborative diagram.jpeg">
+  <img width="750" height="400" img src="Collab 1 - Customer & Booking.jpeg">
 
 
-Communication diagram for: *Matching a Customer to a suitable Relationship Manager*
+Collaborative diagram for: ***Matching a Customer to an appropriate Relationship Manager***
 
-  <img width="600" height="400" img src="collab diagram.jpeg">
+  <img width="600" height="400" img src="Collab 2 - Match RM.jpeg">
 
-Communication diagram for: *Generating a Target List*
+Collaborative diagram for: ***Generating a Target List***
 
-  <img width="600" height="400" img src="Untitled Document.png">
+  <img width="600" height="400" img src="Collab 3- Make Target List.jpeg">
 
 ## Scrum activities 
-*Explanation and outline of Scrum activities used
-
-By concentrating on orchestration and management of agile software programs, Scrum contrasts with the technical emphasis of intense programming. The activities of SCRUM can be summarized as follows:
-- A group called sprints work on short cycles, estimated time in 3 weeks.
-- There is a product backlog list, which prioritizes other features or outputs or project requirements list.
-- Sprint Planning: Some features will be selected from the Product backlog before each sprint. The feature selected here is to create an existing customer profile and a corresponding RM profile may depend on age, gender, culture, language level, experience, and product knowledge. This feature was chosen because there were enough human resources and they believed it could be done in 3 weeks' work.
-- Daily Scrum: The team will meet daily for about 15 minutes to update the progress of the work as well as share the difficulties encountered during software development. The work will continue if no problems occur.
-- Sprint Review: The work will be reviewed to complete by the product owner and development group to change or modify the products during the Sprint.
-- The team then reviews the Sprint and reflects on what they have learned and what they can improve for the next cycle.
 
 For this project, we used the Scrum development process to help facilitate teamwork, accountability, and iterative progress towards our defined goal for the new Information System. We used Git Hub as it seamlessly integrates transparency throughout the development of the project, as each team member was able to openly view, edit and provide feedback on each commit to the repository. 
 
@@ -244,7 +212,7 @@ In relation to Scrum events implemented into the project, we took the basic form
 -	We conducted sprint review meetings by analysing the backlog not completed in the prior sprint and adding these features into our next sprint.  
 -	We conducted sprint review retrospective meeting by reviewing processes that worked well, what created the most problems and discussed solutions rectify problems for future sprints. 
 
-Throughout the week we maintained constant communication via social media platforms, emails, and weekly zoom calls (outside of class hours). This allowed for open and honest communication between team members, which ensured greater transparency in the project. Together, we completed iterations of our work products and continuously reviewed and edited user stories and assumptions. 
+Throughout the week we maintained constant communication via social media platforms, emails, and weekly zoom calls (outside of class hours). This allowed for open and honest communication between team members, which ensured greater transparency in the project. 
 
 
 ## Competitive advantages and possible effects if the project fails 
