@@ -1,15 +1,16 @@
 # Information Systems Development Project 
 
+Video presentation hyperlink: https://www.youtube.com/watch?v=0FaoOdVmQfs&feature=youtu.be
+
 ## Objectives of the Project 
-The objectives of this project is to improve the processes that are currently implemented at the majore travel company's Call Management Centre (CMC). The information gathered through reading the document specification of the travel company  has highlighted the changes that our customers would like to see integrated into the new Information System (IS). It is understood that the current model is outdated and needs to be more streamlined in order to achieve maximum efficiecny and effectivness. 
+
+The objectives of this project is to improve the processes that are currently implemented at the travel company's Call Management Centre (CMC). The information gathered through reading the document specification of the travel company  has highlighted the changes that our user would like to see integrated into the new Information System (IS). It is understood that the current model is outdated and needs to be more streamlined in order to achieve maximum efficiency and effectivness when making sales. 
 
 ## Design thinking approach 
 
 ### Problem definition 
 
-Currently, Relationship managers communicate with customers through the in-house call management centre. The current operating system inefficiently directs inbound and outbound customers to relationship managers, resulting in lost customers, due to long waiting periods and ill informed services, which further leads to loss of sales and loss of repeat customers  
-
-To reduce these inefficiencies, the information system should integrate improved call routing and dynamic flow control to better suit relationship managers to their customers and reduce the waiting period of potential buyers. 
+Currently, Relationship managers communicate with customers through the in-house call management centre, arbitrarily directsing both inbound and outbound customers to relationship managers, with little to no experince in the customers holiday of interest, resulting in unsatisfied customers,long waiting periods, unreliable and inefficient services, which has lead to loss of sales and reduced the ability to establish loyal customers to the company. The following report outlines the proposed new Information System (IS), which will integrate new features and processes to facillitate a better interaction between key stakeholders. 
 
 ### Stakeholders 
 
@@ -20,6 +21,8 @@ Our key stakeholders for this new operating system include:
 -	Relationship manager (RM) 
 -	Call Management Centre (CMC)
 
+We have empathised with each of these customises by creating empathy maps for each of these key stakeholders. This is featured in the section below.
+
 ### Empathy Maps 
 
 <p align="center">
@@ -27,16 +30,19 @@ Our key stakeholders for this new operating system include:
   <img width="900" height="600" img src="EmpathyMap_CallManagementCenter.png">
   </kbd>
 </p>
+
 <p align="center">
   <kbd>
   <img width="900" height="600" img src="EmpathyMap_RelationshipManager.png">
 </kbd>
   </p>
+  
 <p align="center">
   <kbd>
   <img width="900" height="600" img src="EmpathyMap_OutgoingCustomers.png">
     </kbd>
 </p>
+
 <p align="center">
   <kbd>
   <img width="900" height="600" img src="EmpathyMap_IncomingCustomers.png">
@@ -47,19 +53,20 @@ Our key stakeholders for this new operating system include:
 
 The following are the key Point of View (POV) statements which were identified through analysing the project specification and the empathy maps. 
 
-| POV Statment Number | Description |
-| --- | --- |
-| POV #1| A customer should be connected with the best suited relationship manager that has knowledge and experience with their holiday pakcage of interest. The more reliable the information and detail the relationship manager can provide will lead to improved customer relationships and increase likelihood of a sale purchase|
-| POV #2| A relationship manager needs a way to make outbound calls and receive inbound calls, whilst also delivering efficient and well-informed conversations about potential holiday packages. They need to be matched with callers that are express interest in their field of experience so that they provide reliable information to the customer |
-| POV #3| A customer who is interested in holiday package needs a way to communicate efficiently with a well-informed relationship manager on the holiday package that interest them the most because this will help in their decision to purchase a package.|
+| ID |  POV Statement |
+| ----- | --- |
+| POV #1| A customer should be connected with the best suited relationship manager that has knowledge and experience with their holiday pakcage of interest. The more reliable the information and detail the relationship manager can provide will lead to improved customer relationships and increase likelihood of a sale purchase. |
+| POV #2| A customer who is interested in holiday package needs a way to communicate efficiently with a well-informed relationship manager on the holiday package that interest them the most because this will help in their decision to purchase a package. |
+| POV #3| A relationship manager needs a way to make outbound calls and receive inbound calls, whilst also delivering efficient and well-informed conversations about potential holiday packages. They need to be matched with callers that are express interest in their field of experience so that they provide reliable information to the customer. |
+| POV #4| The Call Management Centre must be able to recieve calls from inbound customers and then allocate them to their suitable relationship mangager. In addition to this, they need to be able to source outbound callers, and then provide these details to specific relationship managers who are then tasked to conduct the outbound calls. |
 
-The POV statements served as tool to optimize the work process, to benefit the companys understanding of end users and to launch our brainstorm of How Might We (HMW) statements, which is featured below.
+The POV statements served as tool to optimize the work process, to benefit the companys understanding of end users and to launch our brainstorm of How Might We (HMW) statements (as seen in the following section). 
 
 ### How Might We Statements 
 
 The following table shows all of the How Might We Statements (HMW) built from the POV statements. 
 
-|HMW Number | How Might We... | 
+| ID | How Might We... | 
 | --- | --- |
 | HMW #1 | reduce the time that the customer do need to hang up  |
 | HMW #2 | improve the relationship between staffs and customers  |
@@ -74,21 +81,21 @@ The following table shows all of the How Might We Statements (HMW) built from th
 | HMW #11 | assist the customer in communicating their interests  |
 | HMW #12 | provide a suitable relationship manager to customers |
 | HMW #13 | increase the time taken to make a purchase with a customer |
-| HMW #14|  identify which customers previously used the service before |
+| HMW #14 |  identify which customers previously used the service before |
 | HMW #15 | improve the staff skill so they can serve the new customer with the best they can |
 | HMW #16 | match the RM with the buyer that they have talked before |
 | HMW #17 | receive the feedback from the customer that can improve the quality of the service| 
 
 ### Reflection
 
-At this stage of the project, we have as a team, empathised with our key stakeholders, and defined the gaps in the current operating system, to which solutions will be provided in upcoming work products.  We have generated empathy maps for each of our key stakeholders: 
+At this stage of the project, we have as a team, empathised with our key stakeholders, and defined the gaps in the current operating system, to which solutions will be provided in upcoming work products.  To begin with, we generated empathy maps for each of our key stakeholders: 
 
 -	Inbound customer callers
 -	Outbound customer callers
 -	Relationship manager (RM) 
 -	Call Management Centre (CMC)
 
-These stakeholders will be most affected by the implementation of the new system. We have analysed their thoughts and behaviours, as well their key pains and gains. We brainstormed Point of View (POV) Statements and converted them into How Might We (HMW) Statements to reframe our insights in relation to the best solution for the new information system. 
+These are the stakeholders most affected by the implementation of the new system. We have analysed their thoughts and behaviours, as well as their key pains and gains. We then brainstormed POV Statements and converted them into HMW Statements to reframe our insights into the best solutions for the new information system. 
 
 Moving forward, we will use the product backlog generated from these brainstorming exercises to kickstart our progression into the ideation phase. During this stage, we will develop work products such as use case diagrams and activity diagrams to generate a systematic solution for the operating system. 
 
@@ -105,30 +112,30 @@ Currently, our assumptions are based on our initial readings of the project outl
 
 ### Ideation 
 
-Once we completed the key brainstorming exercises i.e. empathy map, POV statements and HMW statements, we used this understanding of the end user to formulate user stories. The further brainstorming of user stories, formed the product backlog for our project. Eventually, these user stories were incoporated into work products.
+Using our understanding of the stakeholders and their, gained from brainstomring of empathy map, POV statements and HMW statements, we were able to formulate user stories for each. These user stories then formed the product backlog for our project. Eventually, they were incoporated into work products.
 
 #### Product Backlog/ User Stories 
 
 
-| User Story Number  | User Story | Priority |
+| ID  | User Story | Priority |
 | ------------- | ------------- | ---------- |
-| US #1 | As a relationship manager, i want my special discounts rates to be displayed to me so that i can offer my clients competitive rates  | Low | 
-| US #2 | As a relationship manager, i want to record any sales made, so that i can improve my skill score | High | 
-| US #3 | As a relationship manager, i want to be able to input customers payment details on there behalf, so that i can make a payment for a holiday package | High | 
-| US #4 | As a relationship manager, i want to be able to create, edit and delete my profile, so that i can keep customers updated on my skill, experiences and knowledge.  | High | 
-| US #5 | As a relationship manager, i want to retrieve the target list, so that i can make calls to outbound customers | High | 
-| US #6 | As a relationship manager, i want to view customers details and potential holiday packages, so that i can deliver a more specific and tailored service  | High | 
-| US #7 | As a relationship manager, i want to servce customers with the highest scores, so that i can achieve a sale efficiently  | High | 
-| US #8 | As an inbound customer, i want to view the prices of holiday packages in order of lowest to highest fares, so that i can choose the holiday packages efficiently.| Low | 
+| US #1 | As a relationship manager, i want to record any sales made, so that i can improve my skill score | High | 
+| US #2 | As a relationship manager, i want to be able to input customers payment details on there behalf, so that i can make a payment for a holiday package | High | 
+| US #3 | As a relationship manager, i want to be able to create, edit and delete my profile, so that i can keep customers updated on my skill, experiences and knowledge.  | High | 
+| US #4 | As a relationship manager, i want to retrieve the target list, so that i can make calls to outbound customers | High | 
+| US #5 | As a relationship manager, i want to view customers details and potential holiday packages, so that i can deliver a more specific and tailored service  | High | 
+| US #6 | As a relationship manager, i want to servce customers with the highest scores, so that i can achieve a sale efficiently  | High | 
+| US #7 | As the Call Management Centre, i want to direct customers to an Interactive Voice Response when no relationship manager is available, so that we can gather feedback and information from the customer  | High |
+| US #8 | As the Call Management Centre, i want to be able to create, view and delete customer and relationship manager profiles, so that i keep information about end users updated | High |
 | US #9 | As an inbound customer, i want to connect to the RMs that serve me before so that i can work with them easily | Medium | 
 | US #10 | As an inbound customer, i want to be directed to a relationship manager who is familliar with a particular holiday package, so that i can obtain reliable information about the place | Medium | 
-| US #11 | As an inbound customer, i want to view different holiday packages, so that i can develop more information about each place  |Low | 
-| US #12 | As a an inbound customer, i want to view the purchases made through the travel company, so i can review the holiday packages  | Medium |
-| US #13 | As an outbound customer, i want to see the feedback about the company before i made the purchase so that i can believe that i will not be scammed  | Medium |
-| US #14 | As Travel company, i want to save the customer's feedbacks so that we can improve the negative aspects of the company | Medium |
-| US #15 | As the Call Management Centre, i want to direct customers to an Interactive Voice Response when no relationship manager is available, so that we can gather feedback and information from the customer  | High |
-| US #16 | As the Call Management Centre, i want to be able to create, view and delete customer and relationship manager profiles, so that i keep information about end users updated | High |
-| US #17 | As the Call Management Centre, i want generate scores for relationship managers and customers, so that they can be matched based off this criteria | Medium |
+| US #11 | As a an inbound customer, i want to view the purchases made through the travel company, so i can review the holiday packages  | Medium |
+| US #12 | As an outbound customer, i want to see the feedback about the company before i made the purchase so that i can believe that i will not be scammed  | Medium |
+| US #13 | As Travel company, i want to save the customer's feedbacks so that we can improve the negative aspects of the company | Medium |
+| US #14 | As the Call Management Centre, i want generate scores for relationship managers and customers, so that they can be matched based off this criteria | Medium |
+| US #15 | As an inbound customer, i want to view different holiday packages, so that i can develop more information about each place  |Low | 
+| US #16 | As an inbound customer, i want to view the prices of holiday packages in order of lowest to highest fares, so that i can choose the holiday packages efficiently.| Low | 
+| US #17 | As a relationship manager, i want my special discounts rates to be displayed to me so that i can offer my clients competitive rates  | Low | 
 
 All these user stories formed the foundation of our solution to a new and improved Information System (IS) for the travel company. In the following sections, we explore the detailed models and descriptions of the IS process. 
 
@@ -142,15 +149,23 @@ After identifying the key user stories, we integrated these use stories as use c
 
 ### Use case Diagrams
 
-At the beginning of the project, we developed an intial use case diagram. However, after deliberation and constant review of the diagram and use cases, we developed a more in-depth model of the interactions between users and the system, as seen in the second iteration. 
+At the beginning of the project, we developed an intial use case diagram. At first, it was from the customers perspective with the following use cases: 
+- give details 
+- choose travel package 
+- ask about discounts
+- make payment 
 
-For the second iteration, we decided to split the customer into Inbound Customers and Outbound Customers. This provided a clearer representation of the interactions that occur between the actors and their use cases. 
+However, after deliberation and constant review of the diagram and it's use cases, we developed a more in-depth model of the interactions between users and the system. We largely focused on the use cases related to the Relationship manager as they were a primary actor, using the system to create a sale *for* the customer. In addition to this, we also decided to split the customer into Inbound Customers and Outbound Customers. This provided a clearer representation of the interactions that occur between the actors and their use cases. 
 
 ***For Inbound Customers:***
 
 <p align="center">
   <img width="800" height="900" img src="UCD Inbound Final.jpg">
 </p>
+
+In this diagram, the primary actors are the call management centre, the relationship manager and the interactive voice response. They all interact with the system directly to achive a sale. Whilst, the customer is secondary to all the processes and help in assisting the primary actors use of the system. 
+
+It was important to elaborate on the first iteration of the use case diagram as there were many more use cases to consider. incremental development of the use case diagram led to many extend and include relationships being added and removed in the IS process and ultimately led to this final work product (as seen above).
 
 ***For Outbound Customers:***
 
