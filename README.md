@@ -4,7 +4,7 @@ Video presentation hyperlink: https://www.youtube.com/watch?v=0FaoOdVmQfs&featur
 
 ## Objectives of the Project 
 
-The objectives of this project is to improve the processes that are currently implemented at the travel company's Call Management Centre (CMC). The information gathered through reading the document specification of the travel company  has highlighted the changes that our user would like to see integrated into the new Information System (IS). It is understood that the current model is outdated and needs to be more streamlined in order to achieve maximum efficiency and effectivness when making sales. 
+The objectives of this project is to improve the processes that are currently implemented at the travel company's Call Management Centre (CMC). Through reading the document specification of the travel company its highlighted the changes that our user would like to see integrated into the new Information System (IS). It is understood that the current model is outdated and needs to be more streamlined in order to achieve maximum efficiency and effectivness when making sales. 
 
 #### Abbreviations 
 
@@ -70,8 +70,6 @@ The following are the key Point of View (POV) statements which were identified t
 | POV#3| A relationship manager needs a way to make outbound calls and receive inbound calls, whilst also delivering efficient and well-informed conversations about potential holiday packages. They need to be matched with callers that are express interest in their field of experience so that they provide reliable information to the customer. |
 | POV#4| The Call Management Centre must be able to recieve calls from inbound customers and then allocate them to their suitable relationship mangager. In addition to this, they need to be able to source outbound callers, and then provide these details to specific relationship managers who are then tasked to conduct the outbound calls. |
 
-The POV statements served as tool to optimize the work process, to benefit the companys understanding of end users and to launch our brainstorm of How Might We (HMW) statements (as seen in the following section). 
-
 ### How Might We Statements 
 
 The following table shows all of the How Might We Statements (HMW) built from the POV statements. 
@@ -98,14 +96,7 @@ The following table shows all of the How Might We Statements (HMW) built from th
 
 ### Reflection
 
-At this stage of the project, we have as a team, empathised with our key stakeholders, and defined the gaps in the current operating system, to which solutions will be provided in upcoming work products.  To begin with, we generated empathy maps for each of our key stakeholders: 
-
--	Inbound customer callers
--	Outbound customer callers
--	Relationship manager 
--	Call Management Centre
-
-These are the stakeholders most affected by the implementation of the new system. We have analysed their thoughts and behaviours, as well as their key pains and gains. We then brainstormed POV Statements and converted them into HMW Statements to reframe our insights into the best solutions for the new information system. 
+At this stage of the project, we have as a team, empathised with our key stakeholders, and defined the gaps in the current operating system, to which solutions will be provided in upcoming work products.  To begin with, we generated empathy maps for each of our key stakeholders. We brainstormed their thoughts and behaviours, as well as their key pains and gains and then generated POV Statements from this and converted them into HMW Statements. This helped in reframing out insights into the best solution for the end users.
 
 Moving forward, we will use the product backlog generated from these brainstorming exercises to kickstart our progression into the ideation phase. During this stage, we will develop work products such as use case diagrams and activity diagrams to generate a systematic solution for the operating system. 
 
@@ -123,7 +114,7 @@ Currently, our assumptions are based on our initial readings of the project outl
 
 ### Ideation 
 
-Using our understanding of the stakeholders and their, gained from brainstomring of empathy map, POV statements and HMW statements, we were able to formulate user stories for each. These user stories then formed the product backlog for our project. Eventually, they were incoporated into work products.
+Using our understanding of the stakeholders and their, gained from brainstorming of empathy map, POV statements and HMW statements, we were able to formulate user stories for each. These user stories then formed the product backlog for our project. Eventually, they were incoporated into work products.
 
 #### Product Backlog/ User Stories 
 
@@ -148,11 +139,9 @@ Using our understanding of the stakeholders and their, gained from brainstomring
 | US#16 | As an inbound customer, i want to view the prices of holiday packages in order of lowest to highest fares, so that i can choose the holiday packages efficiently.| Low | 
 | US#17 | As a relationship manager, i want my special discounts rates to be displayed to me so that i can offer my clients competitive rates  | Low | 
 
-All these user stories formed the foundation of our solution to a new and improved Information System (IS) for the travel company. In the following sections, we explore the detailed models and descriptions of the IS process. 
-
 ## Prototyping and models - Workproducts, models and descriptions
 
-After identifying the key user stories, we integrated these use stories as use cases into our work products. The following diagrams are illustrated below: 
+After identifying the key user stories, we integrated them as use cases into our work products. The following diagrams are illustrated below: 
 - Use Case Diagram 
 - Class Diagram 
 - Activity Diagram 
@@ -174,9 +163,6 @@ However, after deliberation and constant review of the diagram and it's use case
   <img width="800" height="900" img src="UCD Inbound Final.jpg">
 </p>
 
-In this diagram, the primary actors are the CMC, the RM and the interactive voice response. They all interact with the system directly to achive a sale. Whilst, the customer is secondary to all the processes and help in assisting the primary actors use of the system. 
-
-It was important to elaborate on the first iteration of the use case diagram as there were many more use cases to consider. incremental development of the use case diagram led to many extend and include relationships being added and removed in the IS process and ultimately led to this final work product (as seen above).
 
 ***For Outbound Customers:***
 
@@ -184,7 +170,6 @@ It was important to elaborate on the first iteration of the use case diagram as 
   <img width="700" height="900" img src="UCD Outbound Final (1).jpg">
 </p>
  
-For the outbound customer, the diagram is simplified as customers are no longer directed to the Automatic Voice Response. Once the process of getting a target and making the first call begins, the allocated R< must work through the contact list until completion. They obtain this target list by requesting it from the CMC which serves as database for extracting outbound contacts. As can be seen in the diagram, the Customer has little interaction with the actual system but assist in making a booking and payment with the RM. 
 
 ### Activity Diagrams
 
@@ -197,7 +182,7 @@ In developing this diagram, we began with intial models which then were iterativ
   <img width="700" height="800" img src="IB AD Final.jpg">
 </p>
 
-In this diagram, it was important to distinguish between our new and existing customers at the beginning as this would be a determinant of their priority in the queue for an RM. After being allocated, the customer would be asked questions, in which the RM would generate and return potential holiday packages and related information. If the RM is successful, a booking would ensue (as seen in the 'Outbound Customer Activity Diagram' below). Each booking made by an RM results in the RMs skill score being updated to reflect their performance in achieving a sale. 
+In this diagram, it was important to distinguish between our new and existing customers at the beginning as this would be a determinant of their priority in the queue for an RM. After being allocated, the customer would be asked questions, in which the RM would generate and return potential holiday packages and related information. 
 
 ***For Outbound Customers:***
 
@@ -249,22 +234,18 @@ Collaborative diagram for: ***Generating a Target List***
 
 For this project, we used the Scrum development process to help facilitate teamwork, accountability, and iterative progress towards creating a new IS. We used Git Hub as it seamlessly integrates transparency throughout the development of the project, as each team member was able to openly view, edit and provide feedback on each commit to the repository. 
 
-
-To begin with, we developed our product backlog from commiting our user stories as issues, as well as any arbitrary tasks which needed to be completed for the report. Then, we generated a sprint backlog, which contained the most important user stories, as that would form the basis of our work products. These were labelled as ‘Important’ in the ‘Issues’ section of Git Hub. For example some user stories which were selected for the initial sprint involved creating a customer profile and a corresponding RM profile. In addition to this, We used a Kanban board to help visualise and manage the issues which needed to be integrated in the sprint. We divided the board into "To do”, “In progress” and “Done”. Once a user story has been fully accounted for in a work product, only then was it allowed to be added to “Done”. This procedure was supportive of continuous delivery, enabling work products to be incrementally added to the Git Hub repository. 
+To begin with, we developed our product backlog from commiting our user stories as issues, as well as any arbitrary tasks which needed to be completed for the report. Then we generated a sprint backlog each week, which would need to addressed in the work products. For example, the most imporant user stories were selected for the initial sprint such as creating a customer profile and a corresponding RM profile. In addition to this, We used a Kanban board to help visualise and manage the issues which needed to be integrated in the sprint. We divided the board into "To do”, “In progress” and “Done”. Once a user story has been fully accounted for in a work product, only then was it allowed to be added to “Done”. This procedure was supportive of continuous delivery, enabling work products to be incrementally added to the Git Hub repository. 
 
 In relation to Scrum events implemented in the project, we took the basic format of many of the scrum meetings and tailored it to the context of this assignment (i.e. student commitments, the project didn’t require code development and inability for face to face communication). As a result, Scrum meetings were conducted primarily during tutorials and most were instigated simultaneously during the class. During weekly tutorials we completed sprint planning meetings which consisted of the following: 
 -	We discussed the tasks that were completed in the prior week and tasks that need to be completed for the next week. 
 -	We conducted sprint review meetings by analysing the backlog not completed in the prior sprint and adding these features into our next sprint.  
 -	We conducted sprint review retrospective meetings by reviewing processes that worked well, what created the most problems and discussed solutions to rectify them for future sprints. 
 
-Throughout the week we maintained constant communication via social media platforms, emails, and weekly zoom calls (outside of class hours). This allowed for open and honest communication between team members, which ensured greater transparency in the project. 
-
-
 ## Competitive advantages and possible effects if the project fails 
 
 ***Competitive Advantages*** 
 
-The proposed IS has the potential to contribute significantly to the profit margins of the Travel company. Their success hinges on its employees’ ability to provide meaningful and efficient interactions with potential and/or existing customers. In the current blueprint, this interaction is relatively unregulated, and unoptimised, that is, RM are  tasked with seeking out Customers and providing them with arbitrary holiday packages. The new system, as illustrated in the report, features surveys and demographic profiling which will align the needs of customers to the experience and skill RMS, facillitating a perfect pairing of the two users. This will boost productivity and satisfaction of both users. For Example, as Target List are generated RM's have more time dedicated towards helping Customers find the right holiday package, thus increasing the likelihood of a sale. Moreover, they can be confident that their technique is suited to their candidates, both of which would contribute to relationship manager satisfaction and confidence. Call Centres with low employee satisfaction are more conducive to stress and may generate higher employee turnover, which can be corrosive of relationships between RM's and their existing Customers. It is important for Customers to be assured they are communicating with an RM that possesses the necessary skill, knowledge and experience related to holiday package of interest. From the Customer’s perspective, they want to feel like the RM understands their requirements. Thus, a more structured exchange between Customers and RMs will lead to greater customer loyalty, greater maintenance of customer records, reduction in waiting time and skills wastage, ultimately leading to a greater sales potential for the Travel Company. 
+The proposed IS has the potential to contribute significantly to the profit margins of the Travel company. Their success hinges on its employees’ ability to provide meaningful and efficient interactions with potential and/or existing customers. In the current blueprint, this interaction is relatively unregulated, and unoptimised, that is, RM are  tasked with seeking out Customers and providing them with arbitrary holiday packages. The new system, as illustrated in the report, features surveys and demographic profiling which will align the needs of customers to the experience and skill RMS, facillitating a perfect pairing of the two users. This will boost productivity and satisfaction of both users. For Example, as Target List are generated RM's have more time dedicated towards helping Customers find the right holiday package, thus increasing the likelihood of a sale. Moreover, they can be confident that their technique is suited to their candidates, both of which would contribute to relationship manager satisfaction and confidence. Call Centres with low employee satisfaction are more conducive to stress and may generate higher employee turnover, which can be corrosive of relationships between RM's and their existing Customers. It is important for Customers to be assured they are communicating with an RM that possesses the necessary skill, knowledge and experience related to holiday package of interest. Thus, a more structured exchange between Customers and RMs will lead to greater customer loyalty, greater maintenance of customer records, reduction in waiting time and skills wastage, ultimately leading to a greater sales potential for the Travel Company. 
 
 ***Impact of System Failure***
 
