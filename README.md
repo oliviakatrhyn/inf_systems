@@ -20,7 +20,7 @@ These are abbreviations of words which will be seen throughout the report.
 
 ### Problem definition 
 
-Currently, the in-house CM arbitrarily redirects both inbound and outbound Customers to RMs, with little to no experince in the customers holiday of interest, resulting in unsatisfied customers, long waiting periods, unreliable and inefficient services. Overall, the quality of service is loss, leading to declining sales and weak customer loyalty. The following report outlines the proposed new IS, which will integrate new features and processes to facillitate a better interaction between key stakeholders. 
+Currently, the in-house CMC arbitrarily redirects both inbound and outbound Customers to RMs, with little to no experince in the customers holiday of interest, resulting in unsatisfied customers, long waiting periods, unreliable and inefficient services. Overall, the quality of service is loss, leading to declining sales and weak customer loyalty. The following report outlines the proposed new IS, which will integrate new features and processes to facillitate a better interaction between key stakeholders. 
 
 ### Stakeholders 
 
@@ -102,8 +102,8 @@ At this stage of the project, we have as a team, empathised with our key stakeho
 
 -	Inbound customer callers
 -	Outbound customer callers
--	Relationship manager (RM) 
--	Call Management Centre (CMC)
+-	Relationship manager 
+-	Call Management Centre
 
 These are the stakeholders most affected by the implementation of the new system. We have analysed their thoughts and behaviours, as well as their key pains and gains. We then brainstormed POV Statements and converted them into HMW Statements to reframe our insights into the best solutions for the new information system. 
 
@@ -174,7 +174,7 @@ However, after deliberation and constant review of the diagram and it's use case
   <img width="800" height="900" img src="UCD Inbound Final.jpg">
 </p>
 
-In this diagram, the primary actors are the call management centre, the relationship manager and the interactive voice response. They all interact with the system directly to achive a sale. Whilst, the customer is secondary to all the processes and help in assisting the primary actors use of the system. 
+In this diagram, the primary actors are the CMC, the RM and the interactive voice response. They all interact with the system directly to achive a sale. Whilst, the customer is secondary to all the processes and help in assisting the primary actors use of the system. 
 
 It was important to elaborate on the first iteration of the use case diagram as there were many more use cases to consider. incremental development of the use case diagram led to many extend and include relationships being added and removed in the IS process and ultimately led to this final work product (as seen above).
 
@@ -184,11 +184,12 @@ It was important to elaborate on the first iteration of the use case diagram as 
   <img width="700" height="900" img src="UCD Outbound Final (1).jpg">
 </p>
  
-For the outbound customer, the diagram is simplified as customers are no longer directed to the Automatic Voice Response. Once the process of getting a target and making the first call begins, the allocated R< must work through the contact list until completion. They obtain this target list by requesting it from the Call Management centre which serves as database for extracting outbound contacts. As can be seen in the diagram, the Customer has little interaction with the actual system but assist in making a booking and payment with the RM. 
+For the outbound customer, the diagram is simplified as customers are no longer directed to the Automatic Voice Response. Once the process of getting a target and making the first call begins, the allocated R< must work through the contact list until completion. They obtain this target list by requesting it from the CMC which serves as database for extracting outbound contacts. As can be seen in the diagram, the Customer has little interaction with the actual system but assist in making a booking and payment with the RM. 
 
 ### Activity Diagrams
 
-Similarly, with the development of the activity diagram, we began with initial activity diagram, which then were later expanded to include greater depth on the systems interactions and functionality. 
+The activity diagram was used to describe the dynamic aspects of the system, demonstrating the flow from one activity to another. 
+In developing this diagram, we began with intial models which then were iteratively reviwed and adjusted to include greater control flows between use cases. 
 
 ***For Inbound Customers:***
 
@@ -196,20 +197,25 @@ Similarly, with the development of the activity diagram, we began with initial a
   <img width="700" height="800" img src="IB AD Final.jpg">
 </p>
 
+In this diagram, it was important to distinguish between our new and existing customers at the beginning as this would be a determinant of their priority in the queue for an RM. After being allocated, the customer would be asked questions, in which the RM would generate and return potential holiday packages and related information. If the RM is successful, a booking would ensue (as seen in the 'Outbound Customer Activity Diagram' below). Each booking made by an RM results in the RMs skill score being updated to reflect their performance in achieving a sale. 
+
 ***For Outbound Customers:***
 
 <p align="center">
   <img width="700" height="1100" img src="OB AD Final.jpg">
 </p>
 
+For the Outbound Customer, the CMC must generate a Target List from their database and a script and guidelines to the allocated RM. After initiating the first call, the RM will attempt to make a sale and will follow the illustrated process. The process of booking with and RM and the verification of the payment with the bank is also documented in this diagram. 
+
 
 ### Class Diagram
 
-The following class diagram shows the systems classes, their attributes, operations adn the relationsips among classes and objects.
+The following class diagram shows the systems classes, their attributes, operations and the relationsips among classes and objects.
 
 <p align="center">
   <img width="900" height="600" img src="Class Diagram wPayment.jpg">
 </p>
+
 
 ### Collaborative Diagrams
 
@@ -241,14 +247,15 @@ Collaborative diagram for: ***Generating a Target List***
 
 ## Scrum activities 
 
-For this project, we used the Scrum development process to help facilitate teamwork, accountability, and iterative progress towards our defined goal for the new Information System. We used Git Hub as it seamlessly integrates transparency throughout the development of the project, as each team member was able to openly view, edit and provide feedback on each commit to the repository. 
+For this project, we used the Scrum development process to help facilitate teamwork, accountability, and iterative progress towards creating a new IS. We used Git Hub as it seamlessly integrates transparency throughout the development of the project, as each team member was able to openly view, edit and provide feedback on each commit to the repository. 
 
-To begin with, we used user stories to develop our product backlog, as well as any arbitrary tasks which needed to be completed prior to that. For our first sprint, we generated a backlog, which contained the most important user stories, as that would form the foundations of our work products. These were labelled as ‘Important’ in the ‘Issues’ section of Git Hub. For example some user stories which were selected from the Product backlog for the initial sprint related to creating an existing customer profile and a corresponding RM profile. We used a Kanban board to help visualise and manage the issues which needed to be integrated in the sprint. We divided the board into ‘To do”, “In progress” and “Done”. Once a user story has been fully accounted for, only then was it allowed to be added to “Done”. This procedure was supportive of continuous delivery, enabling work products to be released and completed frequently to the Git Hub repository. 
 
-In relation to Scrum events implemented into the project, we took the basic format of many of the scrum meetings and tailored it to the context of this assignment (i.e. student commitments, the project didn’t require code development and inability for face to face communication). As a result, Scrum meetings were conducted primarily during tutorials and were instigated simultaneously during the class. During weekly tutorials we completed sprint planning meetings which consisted of the following: 
+To begin with, we developed our product backlog from commiting our user stories as issues, as well as any arbitrary tasks which needed to be completed for the report. Then, we generated a sprint backlog, which contained the most important user stories, as that would form the basis of our work products. These were labelled as ‘Important’ in the ‘Issues’ section of Git Hub. For example some user stories which were selected for the initial sprint involved creating a customer profile and a corresponding RM profile. In addition to this, We used a Kanban board to help visualise and manage the issues which needed to be integrated in the sprint. We divided the board into "To do”, “In progress” and “Done”. Once a user story has been fully accounted for in a work product, only then was it allowed to be added to “Done”. This procedure was supportive of continuous delivery, enabling work products to be incrementally added to the Git Hub repository. 
+
+In relation to Scrum events implemented in the project, we took the basic format of many of the scrum meetings and tailored it to the context of this assignment (i.e. student commitments, the project didn’t require code development and inability for face to face communication). As a result, Scrum meetings were conducted primarily during tutorials and most were instigated simultaneously during the class. During weekly tutorials we completed sprint planning meetings which consisted of the following: 
 -	We discussed the tasks that were completed in the prior week and tasks that need to be completed for the next week. 
 -	We conducted sprint review meetings by analysing the backlog not completed in the prior sprint and adding these features into our next sprint.  
--	We conducted sprint review retrospective meeting by reviewing processes that worked well, what created the most problems and discussed solutions rectify problems for future sprints. 
+-	We conducted sprint review retrospective meetings by reviewing processes that worked well, what created the most problems and discussed solutions to rectify them for future sprints. 
 
 Throughout the week we maintained constant communication via social media platforms, emails, and weekly zoom calls (outside of class hours). This allowed for open and honest communication between team members, which ensured greater transparency in the project. 
 
@@ -257,10 +264,10 @@ Throughout the week we maintained constant communication via social media platfo
 
 ***Competitive Advantages*** 
 
-The proposed call management system has the potential to contribute significantly to the economic situation of the Travel company. Their success hinges on its employees’ ability to provide meaningful and efficient interactions with potential and/or existing customers in order to greater facilitate the purchase of holiday packages. In the current operational blueprint, this interaction is relatively unregulated, and unoptimised, that is, Relationship Managers (RM) are  tasked with seeking out Customers and providing them with arbitrary holiday packages. The new system, as illustrated in the report, would manage the pairing of such Customers and RM based on both survey results and demographic profiling, features which will obviously boost productivity and efficiency of end users. As Customers target list are generated and optimally allocated, RM's have more time dedicated towards helping Customers find the right holiday package, thus increasing the likelihood of a sale. Moreover, they can be confident that their technique is suited to their candidates, both of which would contribute to relationship manager satisfaction and confidence. Call Centres with low employee satisfaction are more conducive to stress and may generate higher employee turnover, which can be corrosive of relationships between RM's and their existing Customers. It is important for Customers to be assured they are communicating with an RM that possesses the necessary skill, knowledge and experience related to holiday package of interest. From the Customer’s perspective, they want to feel like their RM understands their requirements, which would be assured through the survey and the behaviour of their assigned RM. Thus, a more structured exchange between Customers and RMs will lead to greater customer loyalty, greater maintenance of customer records, reduction in waiting time and skills wastage, ultimately leading to a greater sales potential for the Travel Company. 
+The proposed IS has the potential to contribute significantly to the profit margins of the Travel company. Their success hinges on its employees’ ability to provide meaningful and efficient interactions with potential and/or existing customers. In the current blueprint, this interaction is relatively unregulated, and unoptimised, that is, RM are  tasked with seeking out Customers and providing them with arbitrary holiday packages. The new system, as illustrated in the report, features surveys and demographic profiling which will align the needs of customers to the experience and skill RMS, facillitating a perfect pairing of the two users. This will boost productivity and satisfaction of both users. For Example, as Target List are generated RM's have more time dedicated towards helping Customers find the right holiday package, thus increasing the likelihood of a sale. Moreover, they can be confident that their technique is suited to their candidates, both of which would contribute to relationship manager satisfaction and confidence. Call Centres with low employee satisfaction are more conducive to stress and may generate higher employee turnover, which can be corrosive of relationships between RM's and their existing Customers. It is important for Customers to be assured they are communicating with an RM that possesses the necessary skill, knowledge and experience related to holiday package of interest. From the Customer’s perspective, they want to feel like the RM understands their requirements. Thus, a more structured exchange between Customers and RMs will lead to greater customer loyalty, greater maintenance of customer records, reduction in waiting time and skills wastage, ultimately leading to a greater sales potential for the Travel Company. 
 
 ***Impact of System Failure***
 
-Hypothetically, if the system implementation fails, the time and resources spent on training employees, developing the program and implementing the system would be wasted. Not only would employee satisfaction be squandered, but customers may feel nervous or confused as to the effectiveness of the travel companys operations and may seek out other companys to provide the service. For example, If the system fails to match customers to appropriate RMs, customers may doubt the realibility of the RMs performance and may revert to other travel companys or seek out online holiday packages, completely eliminating the RM role in the process. This will be a big loss to the companys sales potential and may lead to ceased operations of the call management centre if the system fails. 
+Hypothetically, if the system fails, the time and resources spent on training employees, developing the program and implementing the system would be wasted. Not only would employee satisfaction be squandered, but customers may feel nervous or confused as to the effectiveness of the travel companys operations and may seek out other companys to provide the service. For example, If the system fails to match customers to appropriate RMs, customers may doubt the realibility of the RMs informaiton and may seek out a second opinion or book via online, completely eliminating the RM role in the process. This will be a big loss to the companys sales potential and may lead to ceased operations of the CMC. 
 
-Nonetheless, should implementaitons of the system run smoothly, the derived benefits are abundant. To summarise, the system will increase productivity, employee and customer satisfaction, facillitate more meaninful relationships and maintain customer loyalty. While the company is opened up to risks of failure, the reward greatly outweighs this.
+Nonetheless, should implementaitons of the system run smoothly, the derived benefits are abundant. To summarise, the system will increase productivity, employee and customer satisfaction, facillitate more meaningful relationships and maintain customer loyalty. While the company is opened up to risks of failure, the reward greatly outweighs this.
